@@ -1,6 +1,5 @@
 
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/teTXPBF.gif" group-title="Siaran Langsung",SIARAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://stb.mbahnunungonline.net/live/m3u8/id/2b8fc230e8f847a.m3u8
@@ -95,13 +94,13 @@ https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/WBeUAAr.gif" group-title="TV NASIONAL", CNN INDONESIA
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/WBeUAAr.gif" group-title="TV NASIONAL", CNN
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
  
 
 
 
-#EXTINF:-1 tvg-id="CNBC - [Channel 337].id" tvg-name="CNBC Indonesia" tvg-logo="https://i.imgur.com/YT3UWDZ.gif" group-title="TV NASIONAL", CNBC INDONESIA
+#EXTINF:-1 tvg-id="CNBC - [Channel 337].id" tvg-name="CNBC Indonesia" tvg-logo="https://i.imgur.com/YT3UWDZ.gif" group-title="TV NASIONAL", CNBC
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
  
 
@@ -158,7 +157,7 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://i.imgur.com/n9lrWqK.gif" group-title="TV NASIONAL", BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
  
-#EXTINF:0 tvg-logo="https://i.imgur.com/rIgBsNh.gif" group-title="TV NASIONAL", MOJI . 
+#EXTINF:0 tvg-logo="https://i.imgur.com/rIgBsNh.gif" group-title="TV NASIONAL", MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
  
