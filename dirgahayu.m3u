@@ -428,6 +428,62 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a13
 https://melon-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 
+#############KOKO NASIONAL#################
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/eOtH9bA.png" group-title="KO | NASIONAL™", mytv
+http://103.146.197.96:25461/live/koko/koko/1.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/eOtH9bA.png" group-title="KO | NASIONAL™", mytv2
+http://103.146.197.96:25461/live/koko/koko/2.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/eOtH9bA.png" group-title="KO | NASIONAL™", mytv3
+http://103.146.197.96:25461/live/koko/koko/3.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/TQ5KEkc.png" group-title="KO | NASIONAL™",btv
+http://103.146.197.96:25461/live/koko/koko/4.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/HiXkIWZ.png" group-title="KO | NASIONAL™",dunia anak
+http://103.146.197.96:25461/live/koko/koko/5.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/OKgnYqd.png" group-title="KO | NASIONAL™",rcti
+http://103.146.197.96:25461/live/koko/koko/8.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/edUB5bk.png" group-title="KO | NASIONAL™",mnctv
+http://103.146.197.96:25461/live/koko/koko/9.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/whVNc1c.png" group-title="KO | NASIONAL™",gtv
+http://103.146.197.96:25461/live/koko/koko/11.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/m3OVdJN.png" group-title="KO | NASIONAL™",metro
+http://103.146.197.96:25461/live/koko/koko/12.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/Yj0kbc4.png" group-title="KO | NASIONAL™",trans
+http://103.146.197.96:25461/live/koko/koko/13.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/vI9jaSU.png" group-title="KO | NASIONAL™",indisiar
+http://103.146.197.96:25461/live/koko/koko/14.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/AUIAS9J.png" group-title="KO | NASIONAL™",trans7
+http://103.146.197.96:25461/live/koko/koko/15.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/5jzqV6a.png" group-title="KO | NASIONAL™",sctv
+http://103.146.197.96:25461/live/koko/koko/16.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/rblGXnH.png" group-title="KO | NASIONAL™",antv
+http://103.146.197.96:25461/live/koko/koko/17.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/W6kCSRC.png" group-title="KO | NASIONAL™",net
+http://103.146.197.96:25461/live/koko/koko/18.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/IdIB9BE.png" group-title="KO | NASIONAL™",kompas
+http://103.146.197.96:25461/live/koko/koko/19.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/QNuLvh7.png" group-title="KO | NASIONAL™",rtv
+http://103.146.197.96:25461/live/koko/koko/21.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/nubr45W.png" group-title="KO | NASIONAL™",inews
+http://103.146.197.96:25461/live/koko/koko/22.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/4NAYdON.png" group-title="KO | NASIONAL™",mentar
+http://103.146.197.96:25461/live/koko/koko/23.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/ARuhVHg.png" group-title="KO | NASIONAL™",moji
+http://103.146.197.96:25461/live/koko/koko/24.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/ai6T9zP.png" group-title="KO | NASIONAL™",cnn
+http://103.146.197.96:25461/live/koko/koko/25.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/cnenilD.png" group-title="KO | NASIONAL™",cnbc
+http://103.146.197.96:25461/live/koko/koko/27.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/TQ5KEkc.png" group-title="KO | NASIONAL™",btv
+http://103.146.197.96:25461/live/koko/koko/28.m3u8
+
+
 
 
 
@@ -517,6 +573,946 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd
 
 
+========FILM 24 JAM=====
+
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png" group-title="Film 24 jam",MAX | HBO
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Film 24 jam",MAX | HBO Hits
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbohits/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/2560px-HBO_Family.svg.png" group-title="Film 24 jam",MAX | HBO Family
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+  
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Film 24 jam",MAX | HBO Signature
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+
+#EXTINF:-1 tvg-id="CINEMAX HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Film 24 jam",MAX | Cinemax
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="http://202.73.98.253/pics/FMX/LiveTV/hitmovie_m.jpg" group-logo=""  group-title="Film 24 jam",FM | Hits movies HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
+https://atemeshield1-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
+
+#EXTINF:-1 tvg-logo="http://202.73.98.253/pics/FMX/LiveTV/hitshd_m.jpg" group-logo=""  group-title="Film 24 jam",FM | HITS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
+https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
+
+#EXTINF:-1 tvg-logo="http://202.73.98.253/pics/FMX/LiveTV/celestialm_m.jpg" group-logo=""  group-title="Film 24 jam",FM | celestial moviesHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
+https://atemeshield1-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
+
+#EXTINF:-1 tvg-logo="http://202.73.98.253/pics/FMX/LiveTV/tvnmovi_m.jpg" group-logo=""  group-title="Film 24 jam",FM | TVN movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
+https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
+
+
+#EXTINF:-1 tvg-logo="http://202.73.98.253/pics/FMX/LiveTV/rockext1_m.jpg" group-logo=""  group-title="Film 24 jam",FM | ROCK extrem
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41fOdaae733f11a4b84fa02
+#https://atemeshield1-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
+
+
+#EXTINF:-1 tvg-logo="http://202.73.98.253/pics/FMX/LiveTV/anhui_m.jpg" group-logo=""  group-title="Film 24 jam",FM | Anhui
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d71b38eb626d4e9c9297c04a174ab1f8:ed551459c28dacd8a8a3f16a8c5c985b
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnhuiTV/mpd/AnhuiTV.mpd
+
+======
+#EXTINF:-1 tvg-logo="http://202.73.98.253/pics/FMX/LiveTV/hbo_m.jpg" group-logo=""  group-title="Film 24 jam",FM | HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
+https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
+
+
+#EXTINF:-1 tvg-logo="http://202.73.98.253/pics/FMX/LiveTV/hbosign_m.jpg" group-title="Film 24 jam",FM | HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
+https://atemeshield1-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
+
+#EXTINF:-1 tvg-logo="http://202.73.98.253/pics/FMX/LiveTV/hbohits_m.jpg" group-title="Film 24 jam",FM | HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
+https://atemeshield1-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
+
+#EXTINF:-1 tvg-logo="http://202.73.98.253/pics/FMX/LiveTV/hbofam_m.jpg" group-title="Film 24 jam",FM | HBO Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c374098609974ff5a1db0f2300098092:1cf7e0ca54f6f8a84f99a0607c0dfcee
+https://atemeshield1-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
+
+#EXTINF:-1 tvg-logo="http://202.73.98.253/pics/FMX/LiveTV/cinemax_m.jpg" group-title="Film 24 jam",FM | Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
+https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
+
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="wakhaji" group-title="Film 24 jam" tvg-logo="https://i-milkshake.bunkr.ru/20231027_131137-9ffCtzzx.png?download=true",GARUDA TV
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+
+#EXTINF:-1 group-title="Film 24 jam" tvg-id="" tvg-logo="https://i.postimg.cc/HLBFxHgP/20231111-164817.png",Maxstream 
+#https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+
+=======(cub) ========
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png?download=true" group-title="Film 24 jam",HBO (CUB) 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png?download=true" group-title="Film 24 jam",HBO Hits (CUB) 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png?download=true" group-title="Film 24 jam",HBO Family (CUB) 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png?download=true" group-title="Film 24 jam",HBO Signature (CUB) 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png?download=true" group-title="Film 24 jam",Cinemax (CUB) 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+#EXTINF:-1 group-type="live" tvg-name="tes" tvg-logo="http://omzolix.elementfx.com/logoss/citra-bioskop.png" group-title="Film 24 jam", citra bioskop
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
+
+#EXTINF:-1 tvg-name="ID: Citra Drama HD" tvg-id="Citra Drama.id" group-title="Film 24 jam" tvg-logo="https://i.imgur.com/Sgzx95d.png",Citra Drama HD
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
+http://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd?type=dash
+
+#EXTINF:-1 tvg-name="ID: Citra Entertainment HD" tvg-id="CitraEntertainment.id" group-title="Film 24 jam" tvg-logo="https://i.imgur.com/DPulvHZ.png",Citra Entertainment HD
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
+http://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd?type=dash
+
+#EXTINF:-1 tvg-name="ID: Citra Muslim HD" tvg-id="CitraMuslim.id" group-title="Film 24 jam" tvg-logo="https://i.imgur.com/0quH8RA.png",Citra Muslim HD
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
+http://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd?type=dash
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0C69zfe.png" group-title="Film 24 jam",CITRA DANGDUT
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
+http://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd?type=dash
+
+
+#EXTINF:-1 group-title="Film 24 jam"  tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW
+https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+
+#EXTINF:-1 group-title="Film 24 jam"  tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13",BIOSKOP INDONESIA ind
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+
+#EXTINF:-1 group-title="Film 24 jam" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be26e4325724/20200924032733.png",Bioskop Indonesia (CUB)  
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016cf0b533fe73e3/20190902064142.png" group-title="Film 24 jam",Warner (CUB) 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+=======(mnc) ======
+
+#EXTINF:-1 group-title="Film 24 jam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Degup.png",Degup
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2ef96fe03b52c27a7b9a25ebfc95a00:93c9bcd05f9f754026b5b5e17f4e6446
+https://pop5clustera00de07172379a62d6189.hypp.tv:443//PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=web.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixF6lBrrzvU1Q2%2B8sLqGChu40fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84y3usL46ekX4z6HfPL7ju%2BT%2FE8WgnGuV2Kpf7nZRV575l1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230704175902%3AUTC%2C1004320541%2C14.1.254.135%2C20230704175902%2Curn:Huawei:liveTV:XTV55631601%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.186_80&hms_devid=1790&it=H4sIAAAAAAAAA0XMwQoCIRCA4bfxKDrGrh08FUEXCba6xuSMsmAr6bbQ28dG0P3__rli4OPedZFsH_vQxaA2AMYimUAKtwY0IZNo_PTFGREw53FKvtDKrsPuppVUEkBLsOK87g4Zk4Nv6V-PO9c_G7guY2BHLcoFm8SUKiecxzLJU8b3peZf8gEXj9EWmQAAAA
+
+
+
+#EXTINF:-1 group-title="Film 24 jam" tvg-id="mycinemaeurope.id" tvg-logo="https://iptv.urfan.web.id/logo/mce.png",My Cinema Europe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
+
+#EXTINF:-1 group-title="Film 24 jam" tvg-id="myfamilychannel.id" tvg-logo="https://iptv.urfan.web.id/logo/mfc.png",My Family Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
+
+#EXTINF:-1 group-title="Film 24 jam" tvg-id="mychinemaasia.id" tvg-logo="https://iptv.urfan.web.id/logo/mca.png",My Cinema Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
+
+#EXTINF:-1 group-title="Film 24 jam" tvg-id="rockaction.id" tvg-logo="https://iptv.urfan.web.id/logo/rockact.png",Rock Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
+
+#EXTINF:-1 group-title="Film 24 jam" tvg-id="nadoo.kr" tvg-logo="https://iptv.urfan.web.id/logo/nadoo.png",Nadoo Korean
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
+
+#EXTINF:-1 group-title="Film 24 jam" tvg-id="kbsworld.kr" tvg-logo="https://iptv.urfan.web.id/logo/kbsworld.png",KBS World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+#EXTINF:-1 group-title="Film 24 jam" tvg-id="kplus.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8c/K_Plus_Asia_Logo.jpg",K+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHpbNE6O83sFL07n7JmJ__PWzxFVfKCZHDg59pckeBsBgdQ1D-EpgOcwJvqA3Gk2j5afw&usqp=CAU" group-title="Film 24 jam", INDONESIA MOVIE CHANNEL
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
+https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+
+#EXTINF:-1 group-title="Film 24 jam"  tvg-logo="https://images.indihometv.com/logo_imc_small.png",IMC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJQqNry25Ge1B1sADx4MpRc18-AvMNZG-7XuKUh3S5eqBKm0V1UPodhxCUXMlQ1-qXLQ&usqp=CAU" group-title="Film 24 jam", CINEMACHI
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
+https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhxyHIcO_qZK6lsrvvQLRTy3Umj1ZqlmQaTjb5mQ_zt0pb7vJmuofyoePJNiux9rPomYI&usqp=CAU" group-title="Film 24 jam", CINEMACHI XTRA
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
+https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQessDI5IdcTHBrNTCKQvke_2MQLi64Pxd58W7FUARFHOT1WPw97jZC8eTwuK8IkZT3eg&usqp=CAU" group-title="Film 24 jam", CINEMACHI MAX
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
+https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyyNY3qXwxRkumZB43Onn6LSMSdlkFCjePdzIo6EXa1xqDqHlPbq65Nx7MnJJ5afP7Uzg&usqp=CAU" group-title="Film 24 jam", CINEMACHI ACTION
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
+https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFxmlVFaKga6uHEVJhpX2uoyJFDPoQajy3Rj5HGT6lqlwBbUR_UVgOakdHlkBBeisrY8A&usqp=CAU" group-title="Film 24 jam", CINEMACHI KIDS
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
+https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ciaKdajd-E0BpULHURkYc7f6dF8ofowNRQscbyYea8zmX7CuXX7XOZtUDn3d206c2w&usqp=CAU" group-title="Film 24 jam", TVN MOVIES
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45c004003b09719751adb885d28d491f:fe82bc3ffe00477c833812fae74caed7
+https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlQ5W_NQWBb8tXvwQIQ1c2xWabq0yL9SEUS0kKWYaG8HXuDIwpY1YKIOp2IfyPELElvmE&usqp=CAU" group-title="Film 24 jam", CELESTIAL MOVIE
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13aecb26aeee22bc86920045f22d134d:80aa44d998c7c0cc221c96d26730fe9b
+https://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL1Pr3tQSz8E5NohU3zJ9JaES2gO_WJOaGPmrvH5Ip1w9cgswDo6OytYtiyWHRhWD6gcA&usqp=CAU" group-title="Film 24 jam", CELESTIAL CLASSIC
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12da619438b3748da206142216d0943b:6958377109d34561ad20645319cec62c
+https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5qkzP8M47-gmBKAqTN3RC3Y1C5pidyI_Y5oiGe9XTrQ3K6FE6wp5fDPER5-rhY5-lXa0&usqp=CAU" group-title="Film 24 jam", THRILL
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
+https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRglvRXepXc4PgSM-CECYkwm-nE4hGZRONFn_1R-0bmkQ89zF-q62DJl84MAeFESMnSg0A&usqp=CAU" group-title="Film 24 jam", CINEMA WORLD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
+https://cempedak-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR9cqUrtOyGrsbjfpUbp9cJF7NFUPR82fiN_nIm-TsbfRnr9dN7NzA_E3jXKXZ-qCE8uc&usqp=CAU" group-title="Film 24 jam", MY CINEMA
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_15.jpg" group-title="Film 24 jam", MY FAMILY
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+https://cempedak-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR9cqUrtOyGrsbjfpUbp9cJF7NFUPR82fiN_nIm-TsbfRnr9dN7NzA_E3jXKXZ-qCE8uc&usqp=CAU" group-title="Film 24 jam", MY CINEMA ASIA
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
+
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/202109/befunky-collage-14.jpg" group-title="Film 24 jam", HITS MOVIE
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d9684b1737e3b68801b4cff7225d4bb:902e7634820c26a8ff36f3708f0191d4
+https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqu87AnEZIwrDDduKOAHKgxmd7RCiCovvRAvxI81Sd3fRuK13ZWSh_F0Vf5Af0ip-IUqA&usqp=CAU" group-title="Film 24 jam", HITS
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78d17d4851a5e9eede96f283b15ec053:c5ae33f70cc967fe107b35eb7225f52a
+https://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/202109/befunky-collage-14.jpg" group-title="Film 24 jam",Hits (Malaysia) 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78f59a7cdbfba47e13888c5ed4d92f34:26b777a6b4b8edeaaf68703cb27d8b93
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227817/3221227817.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO13ekK2bj%2FEqhmZsgCb487FiMOpHo0ZS6KPaK1a5du0vHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124082914%3AUTC%2C1001767137%2C115.164.56.153%2C20221124082914%2Curn:Huawei:liveTV:XTV51872269%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQQ6CMBREb9NlQwtUuuhKY2Ji0AR0az7tpxIL1RZMvL2iuJ2ZN3ljAI27jUrTFTNtqhuGRSaYlkUOEqTMGDaiyDIS8VF6xYkG57rBlt7M2LlaX1hCE8o5o4yTer7bOrDLspz6BoNK_1iF4dlpVCa29AmRgrUBLYydH-jRwesU3DIhWC9qTAjJC8GlkElOxjmtId4-DblCXPv-DgHN3tsvoFpwEckd9A0sltCjGibnftwhmI_NG5yCdqD0AAAA&tenantId=6001
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoItO5Z4Vfpk1O3NmlVg1DzwYGSORnAFt1LyCEtWm3RJLkTQBghHu8Mab27ZpaEPCeRA&usqp=CAU" group-title="Film 24 jam", PARAMOUNT
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsRA9w2vgCQEf_TV3o0v2H8IFLivJQ59CIWN_XumnX9CtqLmy9WOZqZtnfx47v9tcoolg&usqp=CAU" group-title="Film 24 jam", GALAXY PREMIUM
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
+https://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RsYd-PQG8A3ZXFGsTgwGHTHq59aMZ1mTKrVZ3_xXulWFIK3IoiHc7zzIDzjA9oN8vQ&usqp=CAU" group-title="Film 24 jam", GALAXY
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
+https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMv4iEfuOSkFYDaAs8tXkP7eN_W_iGTcEzQx85YhXNiDd999Ly-YTu3H4NKCgJ7EArzA&usqp=CAU" group-title="Film 24 jam", ZEE BIOSKOP
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
+https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_5MdZR5pmp9u1I0R98fbd-AczStXx3ezXbSSbXHoe2jDABTyQAXPmb7uaPMXwq5VWuPw&usqp=CAU" group-title="Film 24 jam", TVN
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=742131dbcb507c31502eb60b32be6bb8:209f03c525bbbc9fd8652aa7a9cc5cb0
+https://cempedak-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3fkpGnC6jc1AOiHyd82aVWiSqTUMorw2Agicd_O4IzaNJparflsiPLelGkykgTenCrlY&usqp=CAU" group-title="Film 24 jam", AXN
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
+https://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsxUryhYvc-UNOcmLF0fHY4cwqaiH4u_WcURp1a92jkJXUz3rVRQNyAdYPjOvjo9ZMIRU&usqp=CAU" group-title="Film 24 jam", ROCK ENTERTAINMENT
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IH86w2yNXIU5XBRxVNQVgQ", "kid":"HNDzPbWoJshQ4O9sqTMagg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7046/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-title="Film 24 jam", Salam HD 
+#https://unifi-live32.secureswiftcontent.com/UnifiHD/live32.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OjNo+jhaBJaV/03jw2gJzQ", "kid":"/CPEQjVYVJkqJkkxoo/BxQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" group-title="Film 24 jam",Siar 
+#https://unifi-live32.secureswiftcontent.com/UnifiHD/live31.mpd
+
+#EXTINF:-1 group-title="Film 24 jam" tvg-id="" tvg-url="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png",BOO
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
+https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/2407/default.mpd
+
+#EXTINF:-1 group-title="Film 24 jam" tvg-id="" tvg-url="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png",BOO backup
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11618
+
+#EXTINF:-1 group-title="Film 24 jam" tvg-id="" tvg-url="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png", Astro PREMIER
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11816
+
+#EXTINF:-1 group-title="Film 24 jam" tvg-id="" tvg-url="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png", Astro OASIS
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11620
+
+#EXTINF:-1 group-title="Film 24 jam" tvg-logo="https://i.ytimg.com/vi/cVlMaZGZ5H0/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAPhMgF7SXgbDvoVt2VrM5Eqq7bJg",Degup
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2ef96fe03b52c27a7b9a25ebfc95a00:93c9bcd05f9f754026b5b5e17f4e6446
+https://pop5clustera00de07172379a62d6189.hypp.tv:443//PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=web.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixF6lBrrzvU1Q2%2B8sLqGChu40fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84y3usL46ekX4z6HfPL7ju%2BT%2FE8WgnGuV2Kpf7nZRV575l1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230704175902%3AUTC%2C1004320541%2C14.1.254.135%2C20230704175902%2Curn:Huawei:liveTV:XTV55631601%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.186_80&hms_devid=1790&it=H4sIAAAAAAAAA0XMwQoCIRCA4bfxKDrGrh08FUEXCba6xuSMsmAr6bbQ28dG0P3__rli4OPedZFsH_vQxaA2AMYimUAKtwY0IZNo_PTFGREw53FKvtDKrsPuppVUEkBLsOK87g4Zk4Nv6V-PO9c_G7guY2BHLcoFm8SUKiecxzLJU8b3peZf8gEXj9EWmQAAAA
+
+#EXTINF:-1 tvg-id="132.astro" group-title="Film 24 jam" ch-number="132" tvg-logo="https://aqfadtv.xyz/logos/DramaHebat.png",132 Drama Hebat (NJOI)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+
+#EXTINF:-1 tvg-id="133.astro" group-title="Film 24 jam" ch-number="133" tvg-logo="https://aqfadtv.xyz/logos/DramaHotpot.png",133 Drama Hotpot (NJOI)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+
+#EXTINF:-1 tvg-id="134.astro" group-title="Film 24 jam" ch-number="134" tvg-logo="https://aqfadtv.xyz/logos/LawakSentral.png",134 Lawak Sentral (NJOI)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
+
+
+#EXTINF:-1 tvg-id="136.astro" group-title="Film 24 jam" ch-number="136" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",136 Oh My Ceria! (NJOI)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
+
+=================HBO SGP================
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png?download=true" group-title="Film 24 jam",HBO (Sg)
+https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png?download=true" group-title="Film 24 jam",HBO Hits (Sg)
+https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png?download=true" group-title="Film 24 jam",HBO Family (Sg)
+https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png?download=true" group-title="Film 24 jam",HBO Signature (Sg)
+https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png?download=true" group-title="Film 24 jam",Cinemax (Sg)
+https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
+
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ic.png?download=true" group-title="Film 24 jam",FOX SPN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b70c1cfa0014bac814e396955ef4c8f:6d91dbb976489658b11220822f571756
+#https://cors-proxy.cluster.fun/http://vfpc.gb.vodafone.es/sdash/LIVE$CUP011/2.mpd/Manifest?start=LIVE&end=END&device=DASH_STB_NGRSSP_LIVE_HD
+
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ic.png?download=true" group-title="Film 24 jam",AXN SPN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17b4b5cdbb271e7f6d97e38a04a2d27f:75aef15c20e7a17c64b71d2f840a6f5d
+https://ott.zapitv.com/live/eds_c2/axn/dash_live_enc/axn.mpd
+
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ic.png?download=true" group-title="Film 24 jam",warner SPN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33947fe5bd6af392efd09f7431e1fa54:02cef33e07cb49b26b0e099ba7467e97
+https://ott.zapitv.com/live/eds_c2/tnt/dash_live_enc/tnt.mpd
+
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ic.png?download=true" group-title="Film 24 jam", Comedy Central spn
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8757de5a495ce5db4893c2eefc11e58:d8309cd9fa8c286f277b4cb9841d7bd2
+https://ott.zapitv.com/live/eds_c2/comedy_central/dash_live_enc/comedy_central.mpd
+
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ic.png?download=true" group-title="Film 24 jam", Calle 13
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ae50bb56203f2f3875e3ee78efab1a5:f22429107ea7806f54902bb2926c8872
+https://ott.zapitv.com/live/eds_c2/calle_13/dash_live_enc/calle_13.mpd
+
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ic.png?download=true" group-title="Film 24 jam", Cosmo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=440d251fb0a742c6ba118e1dd0d86ffe&key=7c9c577423ae0ee2bc672f10b0089969
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ic.png?download=true" group-title="Film 24 jam",AMC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffec3dec40cb61a45e969c84977615ef:c6fbbe1e506a4323d3046b30731c9d52
+https://ott.zapitv.com/live/eds_c2/amc_hd/dash_live_enc/amc_hd.mpd
+
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ic.png?download=true" group-title="Film 24 jam",SyFy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95ec1e26e80c38258a30101d06c8cbf7:0d0df5189256c0bf32c0cd0976bac5bd
+https://ott.zapitv.com/live/eds_c2/syfy/dash_live_enc/syfy.mpd
+
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ic.png?download=true" group-title="Film 24 jam",Energy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a9dbf7992b2f2de807c30928a14eba6:48b9e3073b6c646ef9bfcfa307492e10
+https://ott.zapitv.com/live/eds_c2/energy/dash_live_enc/energy.mpd
+
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ic.png?download=true" group-title="Film 24 jam",Factoría de Ficción
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5032cdcff452f508b44fe895808b9cee:51c7c5b35ad30d4d8552143f19fd5e11
+https://ott.zapitv.com/live/eds_c2/fdf/dash_live_enc/fdf.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="Film 24 jam", ETV BIOSKOP
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526
+
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="Film 24 jam", ETV BIOSKOP
+http://iptvtree.net:8080/c4596f70/c3848d92/298526
+
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="Film 24 jam", ETV BIOSKOP
+http://iptvtree.net:8080/c4596f70/c3848d92/298527
+
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="Film 24 jam", ETV BIOSKOP
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528
+
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="Film 24 jam", ETV BIOSKOP
+http://iptvtree.net:8080/c4596f70/c3848d92/298528
+
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="Film 24 jam", ETV BIOSKOP
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
+
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="Film 24 jam", ETV BIOSKOP
+http://iptvtree.net:8080/c4596f70/c3848d92/298529
+
+#EXTHTTP:{"X-Forwarded-For":"49.32.114.118"}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=562
+#EXTINF:-1 tvg-id="ts78" tvg-logo="https://tatalogo.pages.dev/562.png" group-title="Film 24 jam ", now hd
+https://tp.denver1769.workers.dev/tplay/562.mpd
+
+
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" group-title="Film 24 jam " group-logo="https://w1.pngwing.com/pngs/745/116/png-transparent-background-sky-sky-uk-logo-sky-broadband-television-television-channel-cable-television-digital-television.png" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/06/Sky-Atlantic-250.png", Sky ATLANTIC
+#EXTHTTP:{"X-Forwarded-For":"146.70.46.46"}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000533bb655b97f89fef59db87f507ec:5f1c8bf427349228aa6469486a84c54b
+https://www.eusinfo.pt/seo/plugins/QuickWebProxy/miniProxy.php/https://linear019-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skyatlantic)/manifest_720.mpd
+
+#EXTINF:-1 tvg-id="SkyComedy.uk" group-title="Film 24 jam " group-logo="https://w1.pngwing.com/pngs/745/116/png-transparent-background-sky-sky-uk-logo-sky-broadband-television-television-channel-cable-television-digital-television.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sky_Comedy_DE_Logo_2021.svg/2560px-Sky_Comedy_DE_Logo_2021.svg.png", Sky COMEDY
+#EXTHTTP:{"X-Forwarded-For":"146.70.46.46"}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005d8b36bdc21e2e5a3bc3278c162aa:720de28ad910e3ba91ffafc9d3226e19
+https://www.eusinfo.pt/seo/plugins/QuickWebProxy/miniProxy.php/https://linear013-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycomedy)/manifest_720.mpd
+
+#EXTINF:-1 tvg-id="SkyMaxHD.uk" group-title="Film 24 jam " group-logo="https://w1.pngwing.com/pngs/745/116/png-transparent-background-sky-sky-uk-logo-sky-broadband-television-television-channel-cable-television-digital-television.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZBPAKjkozqbTF_qrMJajTe0Bpg5p_-BHkhILzy8Rj&amp;s", Sky MAX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000350070546d852d30a328bc62fbeda:0789751fcfbc476469c302b1a174ebb8
+https://www.eusinfo.pt/seo/plugins/QuickWebProxy/miniProxy.php/https://linear016-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skymax)/manifest_720.mpd
+
+#EXTINF:-1 tvg-id="SkyShowcaseHD.uk" group-title="Film 24 jam " group-logo="https://w1.pngwing.com/pngs/745/116/png-transparent-background-sky-sky-uk-logo-sky-broadband-television-television-channel-cable-television-digital-television.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKYQoq7lwP9b1fAM0mA2swwU5__gKyi2RyiqIo1qVW&amp;s", Sky SHOWCASE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0003c312fd726f0ed430816abd7bb735:a3b08d3438447fa93a53aa823a834d7e
+https://www.eusinfo.pt/seo/plugins/QuickWebProxy/miniProxy.php/https://linear035-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skyshowcase)/manifest_720.mpd
+
+#EXTINF:-1 tvg-id="SkyCinemaFamilyHD.uk" group-logo="https://w1.pngwing.com/pngs/745/116/png-transparent-background-sky-sky-uk-logo-sky-broadband-television-television-channel-cable-television-digital-television.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/2560px-Sky_Cinema_Family_-_Logo_2021.svg.png" group-title="Film 24 jam ", SKY CINEMA FAMILY
+#EXTHTTP:{"X-Forwarded-For":"146.70.46.46"}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00092cba8f081f1f6711df263e0639a3:07a43faf140c8ce0313047c29883d270
+https://www.eusinfo.pt/seo/plugins/QuickWebProxy/miniProxy.php/https://linear401-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemafamily)/manifest_720.mpd
+
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" group-logo="https://w1.pngwing.com/pngs/745/116/png-transparent-background-sky-sky-uk-logo-sky-broadband-television-television-channel-cable-television-digital-television.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkF9f5dCTKUQVXQP7AlYDGFIPsG2ZtSPFyecVeP_jh&amp;s" group-title="Film 24 jam ", SKY CINEMA HITS 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0009b55ec9440c27db869dd4efec5ff0:457c483c9606553d2461ccf27732f1c3
+https://www.eusinfo.pt/seo/plugins/QuickWebProxy/miniProxy.php/https://linear406-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemahits)/manifest_720.mpd
+
+#EXTINF:-1 tvg-id="SkyCinemaPremiereHD.uk" group-logo="https://w1.pngwing.com/pngs/745/116/png-transparent-background-sky-sky-uk-logo-sky-broadband-television-television-channel-cable-television-digital-television.png" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/06/SKY-CINEMA-PREMIERE-June-2020.png" group-title="Film 24 jam ", SKY CINEMA PREMIER 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= 00073338ff8073d4304f83c62a015923:097c82ec30a82545cfc1f9d66ba7bfa0
+https://www.eusinfo.pt/seo/plugins/QuickWebProxy/miniProxy.php/https://linear407-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemapremier)/manifest_720.mpd
+
+#EXTINF:-1 tvg-id="SkyCinemaSelectHD.uk" group-logo="https://w1.pngwing.com/pngs/745/116/png-transparent-background-sky-sky-uk-logo-sky-broadband-television-television-channel-cable-television-digital-television.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvVPstFK6PWCx2BG6igQBudHDfOf2EudQM0JVEjT5V&amp;s" group-title="Film 24 jam ", SKY CINEMA SELECT 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00094829ed07ef5ce4c054a4ee32e6a3:8332216848b06f3a6da662441cc2afb9
+https://www.eusinfo.pt/seo/plugins/QuickWebProxy/miniProxy.php/https://linear402-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemaselect)/manifest_720.mpd
+
+#EXTINF:-1 tvg-id="SkyCinemaSciFiHorrorHD.uk" group-logo="https://w1.pngwing.com/pngs/745/116/png-transparent-background-sky-sky-uk-logo-sky-broadband-television-television-channel-cable-television-digital-television.png" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/06/SKY-CINEMA-SCIFI-HORROR-June-2020.png" group-title="Film 24 jam ", SKY CINEMA SCIFI-HORROR 
+#EXTHTTP:{"X-Forwarded-For":"146.70.46.46"}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0007c076bbcea27bdc06d9cf3d2ae546:564cfbb51a3c935b01bea50df5649ba8
+https://www.eusinfo.pt/seo/plugins/QuickWebProxy/miniProxy.php/https://linear402-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemascifi)/manifest_720.mpd
+
+#EXTINF:-1 tvg-id="SkyCinemaThrillerHD.uk" group-logo="https://w1.pngwing.com/pngs/745/116/png-transparent-background-sky-sky-uk-logo-sky-broadband-television-television-channel-cable-television-digital-television.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sky_Cinema_Thriller_DE_Logo_2020.svg/2560px-Sky_Cinema_Thriller_DE_Logo_2020.svg.png" group-title="Film 24 jam ", SKY CINEMA THRILLER 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0007e54edb6bc28d1e657138c133cfcb:16dbe4921c7a364db8703eacbaecbd8c
+https://www.eusinfo.pt/seo/plugins/QuickWebProxy/miniProxy.php/https://linear402-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemathriller)/manifest_720.mpd
+
+#EXTINF:-1 tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/06/SKY-CINEMA-ACTION-June-2020.png" group-title="Film 24 jam ",Sky Cinema Action
+#EXTHTTP:{"X-Forwarded-For":"146.70.46.46"}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0009a340cc0a79210aac42485474d01f:42ad18fa32d4001a1b0d196d194b4f82
+https://www.eusinfo.pt/seo/plugins/QuickWebProxy/miniProxy.php/https://linear401-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemaaction)/manifest_720.mpd
+
+#EXTINF:-1 tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/06/SKY-CINEMA-ANIMATION-June-2020.png" group-title="Film 24 jam ",Sky Cinema Animation
+#EXTHTTP:{"X-Forwarded-For":"146.70.46.46"}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0007cb3f3fe2ed34cc3a0dead47c2769:0a8bb5a04ab2fdf7b14af67b8ecf0867
+https://www.eusinfo.pt/seo/plugins/QuickWebProxy/miniProxy.php/https://linear401-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemaanimation)/manifest_720.mpd
+
+
+#EXTINF:-1 tvg-id="SkySciFi.uk" group-logo="https://w1.pngwing.com/pngs/745/116/png-transparent-background-sky-sky-uk-logo-sky-broadband-television-television-channel-cable-television-digital-television.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRREDlvryO6R82IYfn0bvwM59UG082FVOCxd8jtrbZ7&amp;s" group-title="Film 24 jam ", SKY SCIFI
+#EXTHTTP:{"X-Forwarded-For":"146.70.46.46"}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00070f1575f10d7ce03963ca758ba831:a10732c2258e99c55f50c4e942229bd9
+https://www.eusinfo.pt/seo/plugins/QuickWebProxy/miniProxy.php/https://linear407-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skyscifi)/manifest_720.mpd
+
+
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/VvMKr5V/wildside.jpg",WILD SIDE TV
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/grBSqt4/novela.png",TELE NOVELA TV
+https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/XYtgFvZ/Sony-One-Action-Hits.png",SONY ONE ACTION HITS
+https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/V2Q59St/Sony-One-Comedy-Hits.png",SONY ONE COMÃ‰DIE HITS
+https://linear-818.frequency.stream/mt/studio/818/hls/master/playlist.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/yfK0qb7/Sony-One-Comedy.png",SONY ONE COMÃ‰DIE
+https://linear-819.frequency.stream/mt/studio/819/hls/master/playlist.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/2ysh3m6/Sony-One-Favoris.png",SONY ONE FAVORIS
+https://linear-820.frequency.stream/mt/studio/820/hls/master/playlist.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/fMzKRRs/Sony-One-Thriller.png",SONY ONE THRILLER
+https://linear-821.frequency.stream/mt/studio/821/hls/master/playlist.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/S6Mq95y/Sony-One-blacklist.png",SONY ONE BLACKLIST
+https://linear-822.frequency.stream/mt/studio/822/hls/master/playlist.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/5j6DZrt/20mn.png",20 MINUTES TV IDF
+https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png",NRJ 12
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png",CHÃ‰RIE 25
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CSTAR
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/cstar/cstar.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/WgNnchd/clubrtl.png",CLUB RTL
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/clubrtl.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/kKMpCzz/rtltvi.png",RTL TVI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/rtltvi.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/HnSphLp/sqool.jpg",SQOOL TV
+https://new.cache-stream.workers.dev/stream/UCaEqMbRYYOmI3WrALMhxuIg/live.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/crzKf1n/tenerife4.jpg",TENERIFE 4
+https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/x8ftqHr/qattv.png",QATAR TV
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/y4qNK42/qattv2.png",QATAR TV 2
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/f2XWR2M/alrabiaa.jpg",AL RABIAA
+https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.fmp4.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/BCK1L31/DubaiTV.png",DUBAI TV
+https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/2ndSCfQ/mbcdrama0.png",MBC DRAMA
+https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/2ndSCfQ/mbcdrama0.png",MBC DRAMA USA
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/xzdqq9y/mbcdrama.png",MBC DRAMA PLUS
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png",MBC MASR 1
+https://shls-live-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png",MBC MASR 1 USA
+https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/M7B22HL/mbcmasr2.jpg",MBC MASR 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/M7B22HL/mbcmasr2.jpg",MBC MASR 2
+https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/rkr6JSX/mbc-iraq.png",MBC IRAQ
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/rkr6JSX/mbc-iraq.png",MBC IRAQ
+https://iraq-prod-dub-ak.akamaized.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/kGw5pT9/mbcpersia.jpg",MBC PERSIA
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/m5gGgfJ/mbcbollywood.png",MBC BOLLYWOOD
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/m5gGgfJ/mbcbollywood.png",MBC BOLLYWOOD
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg",MBC MOVIES
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg",MBC AFLAM
+https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg",MBC MOVIES ACTION
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:-1group-title="Film 24 jam"  tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg",MBC MOVIES THRILLER
+https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+
+#EXTINF: -1 tvg-logo="http://omzolix.elementfx.com/logoss/kids24.png" group-title="Film 24 jam", bioskop china
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=42
+
+#EXTINF: -1 tvg-logo="http://omzolix.elementfx.com/logoss/kids24.png" group-title="Film 24 jam", bioskop china
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
+
+#EXTINF: -1 tvg-logo="http://omzolix.elementfx.com/logoss/kids24.png" group-title="Film 24 jam", bioskop action
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=45
+
+#EXTINF: -1 tvg-logo="http://omzolix.elementfx.com/logoss/kids24.png" group-title="Film 24 jam", bioskop action
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=53
+
+#EXTINF: -1 tvg-logo="http://omzolix.elementfx.com/logoss/kids24.png" group-title="Film 24 jam", bioskop action
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=70
+
+#EXTINF:-1 tvg-id="5.star.max.eastern.us" tvg-name="5.star.max.eastern.us" tvg-logo="https://media.tv4.live/5.star.max.eastern.us.png" group-title="Film 24 jam",5 Star Max (East)
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/5.star.max.eastern.us.m3u8
+#EXTINF:-1 tvg-id="actionmax.pacific.us" tvg-name="actionmax.pacific.us" tvg-logo="https://media.tv4.live/actionmax.pacific.us.png" group-title="Film 24 jam",ActionMax 
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/actionmax.pacific.us.m3u8
+#EXTINF:-1 tvg-id="amc.eastern.us" tvg-name="amc.eastern.us" tvg-logo="https://media.tv4.live/amc.eastern.us.png" group-title="Film 24 jam",AMC (East) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/amc.eastern.us.m3u8
+#EXTINF:-1 tvg-id="amc.on.demand.us" tvg-name="amc.on.demand.us" tvg-logo="https://media.tv4.live/amc.on.demand.us.png" group-title="Film 24 jam",AMC Presents
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/amc.on.demand.us.m3u8
+#EXTINF:-1 tvg-id="amc.plus.us" tvg-name="amc.plus.us" tvg-logo="https://media.tv4.live/amc.plus.us.png" group-title="Film 24 jam",AMC+
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/amc.plus.us.m3u8
+#EXTINF:-1 tvg-id="fx.movie.channel.us" tvg-name="fx.movie.channel.us" tvg-logo="https://media.tv4.live/fx.movie.channel.us.png" group-title="Film 24 jam",FX Movie Channel
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/fx.movie.channel.us.m3u8
+#EXTINF:-1 tvg-id="fxpacific.us" tvg-name="fxpacific.us" tvg-logo="https://media.tv4.live/fxpacific.us.png" group-title="Film 24 jam",FX Network (West) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/fxpacific.us.m3u8
+#EXTINF:-1 tvg-id="fx.networks.east.coast.us" tvg-name="fx.networks.east.coast.us" tvg-logo="https://media.tv4.live/fx.networks.east.coast.us.png" group-title="Film 24 jam",FX Networks (East) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/fx.networks.east.coast.us.m3u8
+#EXTINF:-1 tvg-id="hbo.eastern.us" tvg-name="hbo.eastern.us" tvg-logo="https://media.tv4.live/hbo.eastern.us.png" group-title="Film 24 jam",HBO (East) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/hbo.eastern.us.m3u8
+#EXTINF:-1 tvg-id="hbo.west.us" tvg-name="hbo.west.us" tvg-logo="https://media.tv4.live/hbo.west.us.png" group-title="Film 24 jam",HBO (West) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/hbo.west.us.m3u8
+#EXTINF:-1 tvg-id="hbo.2.eastern.us" tvg-name="hbo.2.eastern.us" tvg-logo="https://media.tv4.live/hbo.2.eastern.us.png" group-title="Film 24 jam",HBO 2 (East) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/hbo.2.eastern.us.m3u8
+#EXTINF:-1 tvg-id="hbo.comedy.east.us" tvg-name="hbo.comedy.east.us" tvg-logo="https://media.tv4.live/hbo.comedy.east.us.png" group-title="Film 24 jam",HBO Comedy (East) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/hbo.comedy.east.us.m3u8
+#EXTINF:-1 tvg-id="hbo.comedy.pacific.us" tvg-name="hbo.comedy.pacific.us" tvg-logo="https://media.tv4.live/hbo.comedy.pacific.us.png" group-title="Film 24 jam",HBO Comedy (West)
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/hbo.comedy.pacific.us.m3u8
+#EXTINF:-1 tvg-id="hbo.family.eastern.us" tvg-name="hbo.family.eastern.us" tvg-logo="https://media.tv4.live/hbo.family.eastern.us.png" group-title="Film 24 jam",HBO Family (East) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/hbo.family.eastern.us.m3u8
+#EXTINF:-1 tvg-id="hbo.signature.hbo.3.eastern.us" tvg-name="hbo.signature.hbo.3.eastern.us" tvg-logo="https://media.tv4.live/hbo.signature.hbo.3.eastern.us.png" group-title="Film 24 jam",HBO Signature (East) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/hbo.signature.hbo.3.eastern.us.m3u8
+#EXTINF:-1 tvg-id="ion.central.us" tvg-name="ion.central.us" tvg-logo="https://media.tv4.live/ion.central.us.png" group-title="Film 24 jam",ION
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/ion.central.us.m3u8
+#EXTINF:-1 tvg-id="ion.plus.us" tvg-name="ion.plus.us" tvg-logo="https://media.tv4.live/ion.plus.us.png" group-title="Film 24 jam",ION Plus
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/ion.plus.us.m3u8
+#EXTINF:-1 tvg-id="lifetime.movies.east.us" tvg-name="lifetime.movies.east.us" tvg-logo="https://media.tv4.live/lifetime.movies.east.us.png" group-title="Film 24 jam",Lifetime Movies (East)
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/lifetime.movies.east.us.m3u8
+#EXTINF:-1 tvg-id="lifetime.network.us.eastern.us" tvg-name="lifetime.network.us.eastern.us" tvg-logo="https://media.tv4.live/lifetime.network.us.eastern.us.png" group-title="Film 24 jam",Lifetime Network (East)
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/lifetime.network.us.eastern.us.m3u8
+#EXTINF:-1 tvg-id="mgm.usa.us" tvg-name="mgm.usa.us" tvg-logo="https://media.tv4.live/mgm.usa.us.png" group-title="Film 24 jam",MGM US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/mgm.usa.us.m3u8
+#EXTINF:-1 tvg-id="moviemax.us" tvg-name="moviemax.us" tvg-logo="https://media.tv4.live/moviemax.us.png" group-title="Film 24 jam",MovieMax
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/moviemax.us.m3u8
+#EXTINF:-1 tvg-id="movieplex.eastern.us" tvg-name="movieplex.eastern.us" tvg-logo="https://media.tv4.live/movieplex.eastern.us.png" group-title="Film 24 jam",MOVIEplex (East)
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/movieplex.eastern.us.m3u8
+#EXTINF:-1 tvg-id="showtime.eastern.us" tvg-name="showtime.eastern.us" tvg-logo="https://media.tv4.live/showtime.eastern.us.png" group-title="Film 24 jam",Showtime (East) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/showtime.eastern.us.m3u8
+#EXTINF:-1 tvg-id="showtime.west.us" tvg-name="showtime.west.us" tvg-logo="https://media.tv4.live/showtime.west.us.png" group-title="Film 24 jam",Showtime (West) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/showtime.west.us.m3u8
+#EXTINF:-1 tvg-id="showtime.2.eastern.us" tvg-name="showtime.2.eastern.us" tvg-logo="https://media.tv4.live/showtime.2.eastern.us.png" group-title="Film 24 jam",Showtime 2 (East)�US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/showtime.2.eastern.us.m3u8
+#EXTINF:-1 tvg-id="showtime.2.pacific.us" tvg-name="showtime.2.pacific.us" tvg-logo="https://media.tv4.live/showtime.2.pacific.us.png" group-title="Film 24 jam",Showtime 2 (West) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/showtime.2.pacific.us.m3u8
+#EXTINF:-1 tvg-id="showtime.extreme.eastern.us" tvg-name="showtime.extreme.eastern.us" tvg-logo="https://media.tv4.live/showtime.extreme.eastern.us.png" group-title="Film 24 jam",Showtime Extreme (East) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/showtime.extreme.eastern.us.m3u8
+#EXTINF:-1 tvg-id="showtime.extreme.pacific.us" tvg-name="showtime.extreme.pacific.us" tvg-logo="https://media.tv4.live/showtime.extreme.pacific.us.png" group-title="Film 24 jam",Showtime Extreme (West) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/showtime.extreme.pacific.us.m3u8
+#EXTINF:-1 tvg-id="showtime.family.zone.eastern.us" tvg-name="showtime.family.zone.eastern.us" tvg-logo="https://media.tv4.live/showtime.family.zone.eastern.us.png" group-title="Film 24 jam",Showtime Family Zone (East) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/showtime.family.zone.eastern.us.m3u8
+#EXTINF:-1 tvg-id="showtime.family.zone.pacific.us" tvg-name="showtime.family.zone.pacific.us" tvg-logo="https://media.tv4.live/showtime.family.zone.pacific.us.png" group-title="Film 24 jam",Showtime Family Zone (West) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/showtime.family.zone.pacific.us.m3u8
+#EXTINF:-1 tvg-id="sony.movies.us" tvg-name="sony.movies.us" tvg-logo="https://media.tv4.live/sony.movies.us.png" group-title="Film 24 jam",Sony Movie Channel
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sony.movies.us.m3u8
+#EXTINF:-1 tvg-id="start.tv.us" tvg-name="start.tv.us" tvg-logo="https://media.tv4.live/start.tv.us.png" group-title="Film 24 jam",Start TV
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/start.tv.us.m3u8
+#EXTINF:-1 tvg-id="starz.eastern.us" tvg-name="starz.eastern.us" tvg-logo="https://media.tv4.live/starz.eastern.us.png" group-title="Film 24 jam",Starz (East) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/starz.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.pacific.us" tvg-name="starz.pacific.us" tvg-logo="https://media.tv4.live/starz.pacific.us.png" group-title="Film 24 jam",Starz (West) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/starz.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.cinema.eastern.us" tvg-name="starz.cinema.eastern.us" tvg-logo="https://media.tv4.live/starz.cinema.eastern.us.png" group-title="Film 24 jam",Starz Cinema (East) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/starz.cinema.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.cinema.pacific.us" tvg-name="starz.cinema.pacific.us" tvg-logo="https://media.tv4.live/starz.cinema.pacific.us.png" group-title="Film 24 jam",Starz Cinema (West) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/starz.cinema.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.comedy.eastern.us" tvg-name="starz.comedy.eastern.us" tvg-logo="https://media.tv4.live/starz.comedy.eastern.us.png" group-title="Film 24 jam",Starz Comedy (East) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/starz.comedy.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.comedy.pacific.us" tvg-name="starz.comedy.pacific.us" tvg-logo="https://media.tv4.live/starz.comedy.pacific.us.png" group-title="Film 24 jam",Starz Comedy (West) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/starz.comedy.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.edge.eastern.us" tvg-name="starz.edge.eastern.us" tvg-logo="https://media.tv4.live/starz.edge.eastern.us.png" group-title="Film 24 jam",Starz Edge (East) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/starz.edge.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.edge.pacific.us" tvg-name="starz.edge.pacific.us" tvg-logo="https://media.tv4.live/starz.edge.pacific.us.png" group-title="Film 24 jam",Starz Edge (West) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/starz.edge.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.eastern.us" tvg-name="starz.encore.eastern.us" tvg-logo="https://media.tv4.live/starz.encore.eastern.us.png" group-title="Film 24 jam",Starz Encore (East) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/starz.encore.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.pacific.us" tvg-name="starz.encore.pacific.us" tvg-logo="https://media.tv4.live/starz.encore.pacific.us.png" group-title="Film 24 jam",Starz Encore (West) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/starz.encore.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.action.eastern.us" tvg-name="starz.encore.action.eastern.us" tvg-logo="https://media.tv4.live/starz.encore.action.eastern.us.png" group-title="Film 24 jam",Starz Encore Action (East) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/starz.encore.action.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.action.pacific.us" tvg-name="starz.encore.action.pacific.us" tvg-logo="https://media.tv4.live/starz.encore.action.pacific.us.png" group-title="Film 24 jam",Starz Encore Action (West) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/starz.encore.action.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.classic.eastern.us" tvg-name="starz.encore.classic.eastern.us" tvg-logo="https://media.tv4.live/starz.encore.classic.eastern.us.png" group-title="Film 24 jam",Starz Encore Classic (East) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/starz.encore.classic.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.classic.pacific.us" tvg-name="starz.encore.classic.pacific.us" tvg-logo="https://media.tv4.live/starz.encore.classic.pacific.us.png" group-title="Film 24 jam",Starz Encore Classic (West) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/starz.encore.classic.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.family.eastern.us" tvg-name="starz.encore.family.eastern.us" tvg-logo="https://media.tv4.live/starz.encore.family.eastern.us.png" group-title="Film 24 jam",Starz Encore Family (East) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/starz.encore.family.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.family.pacific.us" tvg-name="starz.encore.family.pacific.us" tvg-logo="https://media.tv4.live/starz.encore.family.pacific.us.png" group-title="Film 24 jam",Starz Encore Family (West) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/starz.encore.family.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.suspense.pacific.us" tvg-name="starz.encore.suspense.pacific.us" tvg-logo="https://media.tv4.live/starz.encore.suspense.pacific.us.png" group-title="Film 24 jam",Starz Encore Suspense (West) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/starz.encore.suspense.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.westerns.pacific.us" tvg-name="starz.encore.westerns.pacific.us" tvg-logo="https://media.tv4.live/starz.encore.westerns.pacific.us.png" group-title="Film 24 jam",Starz Encore Westerns (West) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/starz.encore.westerns.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.in.black.eastern.us" tvg-name="starz.in.black.eastern.us" tvg-logo="https://media.tv4.live/starz.in.black.eastern.us.png" group-title="Film 24 jam",Starz In Black (East) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/starz.in.black.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.in.black.pacific.us" tvg-name="starz.in.black.pacific.us" tvg-logo="https://media.tv4.live/starz.in.black.pacific.us.png" group-title="Film 24 jam",Starz In Black (West) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/starz.in.black.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.kids.family.pacific.us" tvg-name="starz.kids.family.pacific.us" tvg-logo="https://media.tv4.live/starz.kids.family.pacific.us.png" group-title="Film 24 jam",Starz Kids (West) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/starz.kids.family.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.kids.family.eastern.us" tvg-name="starz.kids.family.eastern.us" tvg-logo="https://media.tv4.live/starz.kids.family.eastern.us.png" group-title="Film 24 jam",Starz Kids Family (East) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/starz.kids.family.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.suspense.eastern.us" tvg-name="starz.encore.suspense.eastern.us" tvg-logo="https://media.tv4.live/starz.encore.suspense.eastern.us.png" group-title="Film 24 jam",Starz Suspense (East) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/starz.encore.suspense.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.westerns.eastern.us" tvg-name="starz.encore.westerns.eastern.us" tvg-logo="https://media.tv4.live/starz.encore.westerns.eastern.us.png" group-title="Film 24 jam",Starz Westerns US (East) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/starz.encore.westerns.eastern.us.m3u8
+#EXTINF:-1 tvg-id="syfy.eastern.us" tvg-name="syfy.eastern.us" tvg-logo="https://media.tv4.live/syfy.eastern.us.png" group-title="Film 24 jam",Syfy (East) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/syfy.eastern.us.m3u8
+#EXTINF:-1 tvg-id="syfy.pacific.us" tvg-name="syfy.pacific.us" tvg-logo="https://media.tv4.live/syfy.pacific.us.png" group-title="Film 24 jam",Syfy (West) US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/syfy.pacific.us.m3u8
+#EXTINF:-1 tvg-id="the.dove.us" tvg-name="the.dove.us" tvg-logo="https://media.tv4.live/the.dove.us.png" group-title="Film 24 jam",The Dove
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/the.dove.us.m3u8
+#EXTINF:-1 tvg-id="thrillermax.east.us" tvg-name="thrillermax.east.us" tvg-logo="https://media.tv4.live/thrillermax.east.us.png" group-title="Film 24 jam",ThrillerMax (East)
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/thrillermax.east.us.m3u8
+#EXTINF:-1 tvg-id="thrillermax.pacific.us" tvg-name="thrillermax.pacific.us" tvg-logo="https://media.tv4.live/thrillermax.pacific.us.png" group-title="Film 24 jam",ThrillerMax (West)
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/thrillermax.pacific.us.m3u8
+
+
+#EXTINF:-1 tvg-id="sky.arts.uk" tvg-name="sky.arts.uk" tvg-logo="https://media.tv4.live/sky.arts.uk.png" group-title="Film 24 jam",Sky Arts UK
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sky.arts.uk.m3u8
+#EXTINF:-1 tvg-id="sky.atlantic.uk" tvg-name="sky.atlantic.uk" tvg-logo="https://media.tv4.live/sky.atlantic.uk.png" group-title="Film 24 jam",Sky Atlantic UK
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sky.atlantic.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.action.uk" tvg-name="sky.cinema.action.uk" tvg-logo="https://media.tv4.live/sky.cinema.action.uk.png" group-title="Film 24 jam",Sky Cinema Action
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sky.cinema.action.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.animation.uk" tvg-name="sky.cinema.animation.uk" tvg-logo="https://media.tv4.live/sky.cinema.animation.uk.png" group-title="Film 24 jam",Sky Cinema Animation
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sky.cinema.animation.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.comedy.uk" tvg-name="sky.cinema.comedy.uk" tvg-logo="https://media.tv4.live/sky.cinema.comedy.uk.png" group-title="Film 24 jam",Sky Cinema Comedy
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sky.cinema.comedy.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.drama.uk" tvg-name="sky.cinema.drama.uk" tvg-logo="https://media.tv4.live/sky.cinema.drama.uk.png" group-title="Film 24 jam",Sky Cinema Drama
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sky.cinema.drama.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.family.uk" tvg-name="sky.cinema.family.uk" tvg-logo="https://media.tv4.live/sky.cinema.family.uk.png" group-title="Film 24 jam",Sky Cinema Family
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sky.cinema.family.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.greats.uk" tvg-name="sky.cinema.greats.uk" tvg-logo="https://media.tv4.live/sky.cinema.greats.uk.png" group-title="Film 24 jam",Sky Cinema Greats UK
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sky.cinema.greats.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.hits.uk" tvg-name="sky.cinema.hits.uk" tvg-logo="https://media.tv4.live/sky.cinema.hits.uk.png" group-title="Film 24 jam",Sky Cinema Hits
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sky.cinema.hits.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.premiere.uk" tvg-name="sky.cinema.premiere.uk" tvg-logo="https://media.tv4.live/sky.cinema.premiere.uk.png" group-title="Film 24 jam",Sky Cinema Premiere
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sky.cinema.premiere.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.sci.fihorror.uk" tvg-name="sky.cinema.sci.fihorror.uk" tvg-logo="https://media.tv4.live/sky.cinema.sci.fihorror.uk.png" group-title="Film 24 jam",Sky Cinema Sci-fi Horror
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sky.cinema.sci.fihorror.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.select.uk" tvg-name="sky.cinema.select.uk" tvg-logo="https://media.tv4.live/sky.cinema.select.uk.png" group-title="Film 24 jam",Sky Cinema Select
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sky.cinema.select.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.thriller.uk" tvg-name="sky.cinema.thriller.uk" tvg-logo="https://media.tv4.live/sky.cinema.thriller.uk.png" group-title="Film 24 jam",Sky Cinema Thriller
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sky.cinema.thriller.uk.m3u8
+#EXTINF:-1 tvg-id="sky.comedy.uk" tvg-name="sky.comedy.uk" tvg-logo="https://media.tv4.live/sky.comedy.uk.png" group-title="Film 24 jam",Sky Comedy
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sky.comedy.uk.m3u8
+#EXTINF:-1 tvg-id="sky.crime.uk" tvg-name="sky.crime.uk" tvg-logo="https://media.tv4.live/sky.crime.uk.png" group-title="Film 24 jam",Sky Crime
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sky.crime.uk.m3u8
+#EXTINF:-1 tvg-id="sky.documntrs.uk" tvg-name="sky.documntrs.uk" tvg-logo="https://media.tv4.live/sky.documntrs.uk.png" group-title="Film 24 jam",Sky Documentaries
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sky.documntrs.uk.m3u8
+#EXTINF:-1 tvg-id="history.uk" tvg-name="history.uk" tvg-logo="https://media.tv4.live/history.uk.png" group-title="Film 24 jam",Sky History UK
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/history.uk.m3u8
+#EXTINF:-1 tvg-id="sky.one.uk" tvg-name="sky.one.uk" tvg-logo="https://media.tv4.live/sky.one.uk.png" group-title="Film 24 jam",Sky MAX
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sky.one.uk.m3u8
+#EXTINF:-1 tvg-id="sky.nature.uk" tvg-name="sky.nature.uk" tvg-logo="https://media.tv4.live/sky.nature.uk.png" group-title="Film 24 jam",Sky Nature
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sky.nature.uk.m3u8
+#EXTINF:-1 tvg-id="sky.news.uk" tvg-name="sky.news.uk" tvg-logo="https://media.tv4.live/sky.news.uk.png" group-title="Film 24 jam",Sky News
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sky.news.uk.m3u8
+#EXTINF:-1 tvg-id="sky.two.uk" tvg-name="sky.two.uk" tvg-logo="https://media.tv4.live/sky.two.uk.png" group-title="Film 24 jam",Sky Replay
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sky.two.uk.m3u8
+#EXTINF:-1 tvg-id="sky.witness.uk" tvg-name="sky.witness.uk" tvg-logo="https://media.tv4.live/sky.witness.uk.png" group-title="Film 24 jam",Sky Witness
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sky.witness.uk.m3u8
+
+
+=====================================================================================
+
+#EXTINF:-1 group-title="Film 24 jam" tvg-logo="https://i.ibb.co/DbX1hCh/HBOGO.png", HBO Max Original 1
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1095496&extension=ts&play_token=wakhaji
+#EXTINF:-1 group-title="Film 24 jam" tvg-logo="https://i.ibb.co/DbX1hCh/HBOGO.png", HBO Max Original 2
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1095495&extension=ts&play_token=wakhaji
+#EXTINF:-1 group-title="Film 24 jam" tvg-logo="https://i.ibb.co/DbX1hCh/HBOGO.png", HBO Max Original 3
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1095494&extension=ts&play_token=wakhaji
+#EXTINF:-1 group-title="Film 24 jam" tvg-logo="https://i.ibb.co/DbX1hCh/HBOGO.png", HBO Max Original 4
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1095493&extension=ts&play_token=wakhaji
+#EXTINF:-1 group-title="Film 24 jam" tvg-logo="https://i.ibb.co/DbX1hCh/HBOGO.png", HBO Max Original 5
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1095492&extension=ts&play_token=wakhaji
+#EXTINF:-1 group-title="Film 24 jam" tvg-logo="https://i.ibb.co/DbX1hCh/HBOGO.png", HBO Max Original 6
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1095491&extension=ts&play_token=wakhaji
+#EXTINF:-1 group-title="Film 24 jam" tvg-logo="https://i.ibb.co/DbX1hCh/HBOGO.png", HBO Max Original 7
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1095490&extension=ts&play_token=wakhaji
+#EXTINF:-1 group-title="Film 24 jam" tvg-logo="https://i.ibb.co/DbX1hCh/HBOGO.png", HBO Max Original 8
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1095489&extension=ts&play_token=wakhaji
+#EXTINF:-1 group-title="Film 24 jam" tvg-logo="https://i.ibb.co/DbX1hCh/HBOGO.png", HBO Max Original 9
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1095488&extension=ts&play_token=wakhaji
+#EXTINF:-1 group-title="Film 24 jam" tvg-logo="https://i.ibb.co/DbX1hCh/HBOGO.png", HBO Max Original 10
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1095487&extension=ts&play_token=wakhaji
+#EXTINF:-1 group-title="Film 24 jam" tvg-logo="https://i.ibb.co/DbX1hCh/HBOGO.png", HBO Max Original 11
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1095486&extension=ts&play_token=wakhaji
+#EXTINF:-1 group-title="Film 24 jam" tvg-logo="https://i.ibb.co/DbX1hCh/HBOGO.png", HBO Max Original 12
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1095485&extension=ts&play_token=wakhaji
+#EXTINF:-1 group-title="Film 24 jam" tvg-logo="https://i.ibb.co/DbX1hCh/HBOGO.png",US| HBOMAX ORIGINAL 13
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1095484&extension=ts&play_token=wakhaji
+#EXTINF:-1 group-title="Film 24 jam" tvg-logo="https://i.ibb.co/DbX1hCh/HBOGO.png",US| HBOMAX ORIGINAL 14
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1095483&extension=ts&play_token=wakhaji
+#EXTINF:-1 group-title="Film 24 jam" tvg-logo="https://i.ibb.co/DbX1hCh/HBOGO.png",US| HBOMAX ORIGINAL 15 
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1095482&extension=ts&play_token=wakhaji
+#EXTINF:-1 group-title="Film 24 jam" tvg-logo="https://i.ibb.co/DbX1hCh/HBOGO.png",US| HBOMAX ORIGINAL 16 
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1095481&extension=ts&play_token=wakhaji
+#EXTINF:-1 group-title="Film 24 jam" tvg-logo="https://i.ibb.co/DbX1hCh/HBOGO.png",US| HBOMAX ORIGINAL 17 
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1095480&extension=ts&play_token=wakhaji
 
 
 
