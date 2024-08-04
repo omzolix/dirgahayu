@@ -37,12 +37,21 @@ https://tta00022-cf.cool6bcd6.cc/auth%3Db035b99e18728ffe9e6d16fbfc60beec09e49857
 
 
 
+
+
+
+
 FHD
 ############## KING TV #############
 
 #EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/nyZh3P3.gif" group-title="ALD|Nasioanal",indosiar
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
-http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/6.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
+#EXTINF:0 group-title="ALD|Nasioanal" tvg-logo="https://i.imgur.com/rOMTmfP.gif", RCTI
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
+
 
 #EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/2Pr6uRQ.gif" group-title="ALD|Nasioanal",mnctv
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
@@ -61,16 +70,16 @@ http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/11.ts
 http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/12.ts
 
 #EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/bBwIzk4.gif" group-title="ALD|Nasioanal",trans7
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
-http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/13.ts
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
 
 #EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/wLKMFXA.gif" group-title="ALD|Nasioanal",net
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
 http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/14.ts
 
 #EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/htQJ1Ev.gif" group-title="ALD|Nasioanal",iNews
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
-http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/15.ts
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/633ZWoJ.gif" group-title="ALD|Nasioanal",tvone
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
@@ -85,8 +94,7 @@ http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/17.ts
 http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/18.ts
 
 #EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/GH0OAWv.gif" group-title="ALD|Nasioanal",moji
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
-http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/19.ts
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
 
 #EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/EQLZwsF.gif" group-title="ALD|Nasioanal",vtv
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
@@ -114,11 +122,17 @@ https://flv.intechmedia.net/live/ch107.m3u8
 
 
 #EXTINF:-1 group-title="ALD|Nasioanal" tvg-id="vtv.id" tvg-logo="https://i.imgur.com/miq3cqh.gif",Daai
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch107.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
  
 #EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://i.imgur.com/fagv0ip.gif" group-title="ALD|Nasioanal", BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+
+
+
 
 
 
