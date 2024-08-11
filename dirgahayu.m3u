@@ -14,6 +14,11 @@ FHD
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/nyZh3P3.gif" group-title="ALD|Nasioanal",indosiar HD
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
+
+
 #EXTINF:0 group-title="ALD|Nasioanal" tvg-logo="https://i.imgur.com/rOMTmfP.gif", RCTI
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
 
