@@ -1,6 +1,166 @@
 
 
 
+
+
+
+
+
+FHD
+############## KING TV #############
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/nyZh3P3.gif" group-title="ALD|Nasioanal",indosiar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
+#EXTINF:0 group-title="ALD|Nasioanal" tvg-logo="https://i.imgur.com/rOMTmfP.gif", RCTI
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
+
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/2Pr6uRQ.gif" group-title="ALD|Nasioanal",mnctv
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/9.ts
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/1v1I60h.gif" group-title="ALD|Nasioanal",gtv
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/10.ts
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/dPnXlyt.gif" group-title="ALD|Nasioanal",antv
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/11.ts
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/ORZLHam.gif" group-title="ALD|Nasioanal",transtv
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/12.ts
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/bBwIzk4.gif" group-title="ALD|Nasioanal",trans7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/wLKMFXA.gif" group-title="ALD|Nasioanal",net
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/14.ts
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/htQJ1Ev.gif" group-title="ALD|Nasioanal",iNews
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/633ZWoJ.gif" group-title="ALD|Nasioanal",tvone
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/16.ts
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/SYyPgd1.gif" group-title="ALD|Nasioanal",metro
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/17.ts
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/RgSni5r.gif" group-title="ALD|Nasioanal",kompas
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/18.ts
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/GH0OAWv.gif" group-title="ALD|Nasioanal",moji
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/EQLZwsF.gif" group-title="ALD|Nasioanal",vtv
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/20.ts
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/TBrJMzh.gif" group-title="ALD|Nasioanal",rtv
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/22.ts
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/TBrJMzh.gif" group-title="ALD|Nasioanal",rtv1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
+
+#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://i.imgur.com/U2ggjO9.gif" group-title="ALD|Nasioanal", MENTARI
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
+#EXTINF:-1 group-title="ALD|Nasioanal" tvg-id="vtv.id" tvg-logo="https://i.imgur.com/AEeB5VR.gif",GARUDA
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+
+
+#EXTINF:-1 group-title="ALD|Nasioanal" tvg-id="vtv.id" tvg-logo="https://i.imgur.com/EQLZwsF.gif",VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8
+
+
+#EXTINF:-1 group-title="ALD|Nasioanal" tvg-id="vtv.id" tvg-logo="https://i.imgur.com/miq3cqh.gif",Daai
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+ 
+#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://i.imgur.com/fagv0ip.gif" group-title="ALD|Nasioanal", BTV
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+
+
+
+
+
+
+
+
+
+
+#############KOKO NASIONAL#################
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/eOtH9bA.png" group-title="KO | NASIONAL™", mytv
+http://103.146.197.96:25461/live/koko/koko/1.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/eOtH9bA.png" group-title="KO | NASIONAL™", mytv2
+http://103.146.197.96:25461/live/koko/koko/2.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/eOtH9bA.png" group-title="KO | NASIONAL™", mytv3
+http://103.146.197.96:25461/live/koko/koko/3.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/TQ5KEkc.png" group-title="KO | NASIONAL™",btv
+http://103.146.197.96:25461/live/koko/koko/4.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/HiXkIWZ.png" group-title="KO | NASIONAL™",dunia anak
+http://103.146.197.96:25461/live/koko/koko/5.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/OKgnYqd.png" group-title="KO | NASIONAL™",rcti
+http://103.146.197.96:25461/live/koko/koko/8.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/edUB5bk.png" group-title="KO | NASIONAL™",mnctv
+http://103.146.197.96:25461/live/koko/koko/9.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/whVNc1c.png" group-title="KO | NASIONAL™",gtv
+http://103.146.197.96:25461/live/koko/koko/11.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/m3OVdJN.png" group-title="KO | NASIONAL™",metro
+http://103.146.197.96:25461/live/koko/koko/12.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/Yj0kbc4.png" group-title="KO | NASIONAL™",trans
+http://103.146.197.96:25461/live/koko/koko/13.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/vI9jaSU.png" group-title="KO | NASIONAL™",indisiar
+http://103.146.197.96:25461/live/koko/koko/14.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/AUIAS9J.png" group-title="KO | NASIONAL™",trans7
+http://103.146.197.96:25461/live/koko/koko/15.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/5jzqV6a.png" group-title="KO | NASIONAL™",sctv
+http://103.146.197.96:25461/live/koko/koko/16.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/rblGXnH.png" group-title="KO | NASIONAL™",antv
+http://103.146.197.96:25461/live/koko/koko/17.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/W6kCSRC.png" group-title="KO | NASIONAL™",net
+http://103.146.197.96:25461/live/koko/koko/18.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/IdIB9BE.png" group-title="KO | NASIONAL™",kompas
+http://103.146.197.96:25461/live/koko/koko/19.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/QNuLvh7.png" group-title="KO | NASIONAL™",rtv
+http://103.146.197.96:25461/live/koko/koko/21.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/nubr45W.png" group-title="KO | NASIONAL™",inews
+http://103.146.197.96:25461/live/koko/koko/22.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/4NAYdON.png" group-title="KO | NASIONAL™",mentar
+http://103.146.197.96:25461/live/koko/koko/23.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/ARuhVHg.png" group-title="KO | NASIONAL™",moji
+http://103.146.197.96:25461/live/koko/koko/24.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/ai6T9zP.png" group-title="KO | NASIONAL™",cnn
+http://103.146.197.96:25461/live/koko/koko/25.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/cnenilD.png" group-title="KO | NASIONAL™",cnbc
+http://103.146.197.96:25461/live/koko/koko/27.m3u8
+#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/TQ5KEkc.png" group-title="KO | NASIONAL™",btv
+http://103.146.197.96:25461/live/koko/koko/28.m3u8
+
+
 ########  VOD ########
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/2kKe7Nh.jpeg" group-title="VOD MOVIES", IP MAN 1 
@@ -20,15 +180,7 @@ https://stream.hownetwork.xyz/xxx/the-chronicles-of-narnia-prince-caspian-2008-b
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/wMyh9mu.jpeg" group-title="VOD MOVIES", CINDERELLA
 https://stream.hownetwork.xyz/xxx/cinderella-2015-bluray/2/480.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://omzolix.elementfx.com/logoss/presiden.png" group-title="Piala Presiden 2024", livescore
-#EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://tta00022-cf.cool6bcd6.cc/auth%3Db035b99e18728ffe9e6d16fbfc60beec09e4985752967628cc3e265e77d623c8938494bc2eef6995d0970d395b727b0a9283191e3ec279265129c0d1accb13205d84ed37b4e6015cdb948aebd492933524fb8d8dc64b49a8bf38edbfa1a0648e2f96b7771c73804e1b8bc8d7ef4372487b017dd8a7ab943027b6d07f6b93d5a307eb37171475f8850694c654c3d29f52b48ac28686cc2a4ff4f19ee91658afed%26cid%3Dx1xIWGAaEsv3Q2ghu2x9F240803%26_v%3D2%26_r%3D2ciY_d%26_vis%3D8de52c1b932059ba409bccb9ae34a62f31d20ef08384deb04a713f84d2e0fc8c%26_vvs%3D767caa291cf66263017b2bb82a6b32ee4f79ffdb485d1a8fb30d416dd4bbf9c3/app/c265314.m3u8
-
-
-
-
+ 
 
 ################   SAUR SEPUH  ##################
 
@@ -605,420 +757,6 @@ https://archive.org/download/roma-irama/roma%20irama%2FAVSEQ13.mp4
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-FHD
-############## KING TV #############
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/nyZh3P3.gif" group-title="ALD|Nasioanal",indosiar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-
-#EXTINF:0 group-title="ALD|Nasioanal" tvg-logo="https://i.imgur.com/rOMTmfP.gif", RCTI
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
-
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/2Pr6uRQ.gif" group-title="ALD|Nasioanal",mnctv
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
-http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/9.ts
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/1v1I60h.gif" group-title="ALD|Nasioanal",gtv
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
-http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/10.ts
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/dPnXlyt.gif" group-title="ALD|Nasioanal",antv
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
-http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/11.ts
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/ORZLHam.gif" group-title="ALD|Nasioanal",transtv
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
-http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/12.ts
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/bBwIzk4.gif" group-title="ALD|Nasioanal",trans7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/wLKMFXA.gif" group-title="ALD|Nasioanal",net
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
-http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/14.ts
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/htQJ1Ev.gif" group-title="ALD|Nasioanal",iNews
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/633ZWoJ.gif" group-title="ALD|Nasioanal",tvone
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
-http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/16.ts
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/SYyPgd1.gif" group-title="ALD|Nasioanal",metro
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
-http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/17.ts
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/RgSni5r.gif" group-title="ALD|Nasioanal",kompas
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
-http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/18.ts
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/GH0OAWv.gif" group-title="ALD|Nasioanal",moji
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/EQLZwsF.gif" group-title="ALD|Nasioanal",vtv
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
-http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/20.ts
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/TBrJMzh.gif" group-title="ALD|Nasioanal",rtv
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; VGPJTONQPY) ExoPlayerLib/2.15.1
-http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/22.ts
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/TBrJMzh.gif" group-title="ALD|Nasioanal",rtv1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
-
-
-#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://i.imgur.com/U2ggjO9.gif" group-title="ALD|Nasioanal", MENTARI
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-
-#EXTINF:-1 group-title="ALD|Nasioanal" tvg-id="vtv.id" tvg-logo="https://i.imgur.com/AEeB5VR.gif",GARUDA
-https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
-
-
-#EXTINF:-1 group-title="ALD|Nasioanal" tvg-id="vtv.id" tvg-logo="https://i.imgur.com/EQLZwsF.gif",VTV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch107.m3u8
-
-
-#EXTINF:-1 group-title="ALD|Nasioanal" tvg-id="vtv.id" tvg-logo="https://i.imgur.com/miq3cqh.gif",Daai
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://melon-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
- 
-#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://i.imgur.com/fagv0ip.gif" group-title="ALD|Nasioanal", BTV
-https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-
-
-
-
-
-
-
-
-==================================================================================
-                                INDONESIA DIGITAL
-==================================================================================
-
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/FeUYtqL.gif" group-title="NASIONAL FHD",antv
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
-https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
- 
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/FeUYtqL.gif" group-title="NASIONAL FHD",antv 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/FeUYtqL.gif" group-title="NASIONAL FHD",antv 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
-https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KR0uGMJ.gif" group-title="NASIONAL FHD",OK TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://melon-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.imgur.com/KLevrcl.gif" group-title="NASIONAL FHD",DUNIA LAIN
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
-
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/9ODJebP.gif" group-title="NASIONAL FHD",trans7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/9ODJebP.gif" group-title="NASIONAL FHD",trans7 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
-https://filmovie.github.io/by/trans7.m3u8
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/9ODJebP.gif" group-title="NASIONAL FHD",trans7 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
-https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/zL3zjs9.gif" group-title="NASIONAL FHD",transtv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/zL3zjs9.gif" group-title="NASIONAL FHD",transtv 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
-https://filmovie.github.io/by/transtv.m3u8
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/zL3zjs9.gif" group-title="NASIONAL FHD",transtv 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
-https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
-
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/4Akbz5O.gif" group-title="NASIONAL FHD",indosiar
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/8
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/4Akbz5O.gif" group-title="NASIONAL FHD",indosiar 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/4Akbz5O.gif" group-title="NASIONAL FHD",indosiar 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
-https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/4Akbz5O.gif" group-title="NASIONAL FHD",indosiar 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/x2UyMCM.gif" group-title="NASIONAL FHD",sctv
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/x2UyMCM.gif" group-title="NASIONAL FHD",sctv 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/x2UyMCM.gif" group-title="NASIONAL FHD",sctv 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
-https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/x2UyMCM.gif" group-title="NASIONAL FHD",sctv 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N671Z5s.gif" group-title="NASIONAL FHD",MENTARI TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/92
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-#EXTINF:-1 group-title="NASIONAL FHD" tvg-logo="https://i.imgur.com/N671Z5s.gif",MENTARI TV 1
-https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/jYgmgk3.gif" group-title="NASIONAL FHD",MOJI
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/117
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/jYgmgk3.gif" group-title="NASIONAL FHD",MOJI 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011
-http://iptvmedia.live:8080/live/adastream2023/Bye5XZwQ8d5Cbs5/298550.ts
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/jYgmgk3.gif" group-title="NASIONAL FHD",MOJI 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
-
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.imgur.com/d3tdZSk.gif" group-title="NASIONAL FHD",RCTI
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-https://pl.kokokputik.my.id/iptv/Rctiplus/index.m3u8?id=rcti
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.imgur.com/d3tdZSk.gif" group-title="NASIONAL FHD",RCTI 1
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/XeNpTVp.gif" group-title="NASIONAL FHD",MNCTV
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-https://pl.kokokputik.my.id/iptv/Rctiplus/index.m3u8?id=mnc
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/XeNpTVp.gif" group-title="NASIONAL FHD",MNCTV 1
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/D9uE7p5.gif" group-title="NASIONAL FHD",GTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-https://pl.kokokputik.my.id/iptv/Rctiplus/index.m3u8?id=gtv
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/D9uE7p5.gif" group-title="NASIONAL FHD",GTV 1
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/giM9J3D.gif" group-title="NASIONAL FHD",iNews
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-https://pl.kokokputik.my.id/iptv/Rctiplus/index.m3u8?id=inews
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/giM9J3D.gif" group-title="NASIONAL FHD",iNews 1
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/giM9J3D.gif" group-title="NASIONAL FHD",iNews 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
-https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
-
-
-
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/S7yyWe9.gif" group-title="NASIONAL FHD",tvone
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
-http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
-
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/55ZYSCQ.gif" group-title="NASIONAL FHD",net
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/55ZYSCQ.gif" group-title="NASIONAL FHD",net 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://melon-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/55ZYSCQ.gif" group-title="NASIONAL FHD",net 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/0iH09BY.gif" group-title="NASIONAL FHD",metro
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
-https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/0iH09BY.gif" group-title="NASIONAL FHD",metro 1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
-https://melon-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/WfYAwN5.gif" group-title="NASIONAL FHD",kompas
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
-https://atemecdnbalancer-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/WfYAwN5.gif" group-title="NASIONAL FHD",kompas 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
-https://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8?app_type=web&userid=jjj&chname=Kompas_TV
-
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/qqW9zMu.gif" group-title="NASIONAL FHD",rtv
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
-
-
-#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/qqW9zMu.gif" group-title="NASIONAL FHD",rtv 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://melon-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
-
-
-#############KOKO NASIONAL#################
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/eOtH9bA.png" group-title="KO | NASIONAL™", mytv
-http://103.146.197.96:25461/live/koko/koko/1.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/eOtH9bA.png" group-title="KO | NASIONAL™", mytv2
-http://103.146.197.96:25461/live/koko/koko/2.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/eOtH9bA.png" group-title="KO | NASIONAL™", mytv3
-http://103.146.197.96:25461/live/koko/koko/3.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/TQ5KEkc.png" group-title="KO | NASIONAL™",btv
-http://103.146.197.96:25461/live/koko/koko/4.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/HiXkIWZ.png" group-title="KO | NASIONAL™",dunia anak
-http://103.146.197.96:25461/live/koko/koko/5.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/OKgnYqd.png" group-title="KO | NASIONAL™",rcti
-http://103.146.197.96:25461/live/koko/koko/8.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/edUB5bk.png" group-title="KO | NASIONAL™",mnctv
-http://103.146.197.96:25461/live/koko/koko/9.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/whVNc1c.png" group-title="KO | NASIONAL™",gtv
-http://103.146.197.96:25461/live/koko/koko/11.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/m3OVdJN.png" group-title="KO | NASIONAL™",metro
-http://103.146.197.96:25461/live/koko/koko/12.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/Yj0kbc4.png" group-title="KO | NASIONAL™",trans
-http://103.146.197.96:25461/live/koko/koko/13.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/vI9jaSU.png" group-title="KO | NASIONAL™",indisiar
-http://103.146.197.96:25461/live/koko/koko/14.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/AUIAS9J.png" group-title="KO | NASIONAL™",trans7
-http://103.146.197.96:25461/live/koko/koko/15.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/5jzqV6a.png" group-title="KO | NASIONAL™",sctv
-http://103.146.197.96:25461/live/koko/koko/16.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/rblGXnH.png" group-title="KO | NASIONAL™",antv
-http://103.146.197.96:25461/live/koko/koko/17.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/W6kCSRC.png" group-title="KO | NASIONAL™",net
-http://103.146.197.96:25461/live/koko/koko/18.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/IdIB9BE.png" group-title="KO | NASIONAL™",kompas
-http://103.146.197.96:25461/live/koko/koko/19.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/QNuLvh7.png" group-title="KO | NASIONAL™",rtv
-http://103.146.197.96:25461/live/koko/koko/21.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/nubr45W.png" group-title="KO | NASIONAL™",inews
-http://103.146.197.96:25461/live/koko/koko/22.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/4NAYdON.png" group-title="KO | NASIONAL™",mentar
-http://103.146.197.96:25461/live/koko/koko/23.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/ARuhVHg.png" group-title="KO | NASIONAL™",moji
-http://103.146.197.96:25461/live/koko/koko/24.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/ai6T9zP.png" group-title="KO | NASIONAL™",cnn
-http://103.146.197.96:25461/live/koko/koko/25.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/cnenilD.png" group-title="KO | NASIONAL™",cnbc
-http://103.146.197.96:25461/live/koko/koko/27.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/TQ5KEkc.png" group-title="KO | NASIONAL™",btv
-http://103.146.197.96:25461/live/koko/koko/28.m3u8
-
-
-
- 
 
 
  
