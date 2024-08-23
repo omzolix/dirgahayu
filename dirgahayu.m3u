@@ -267,61 +267,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 
 
-#############KOKO NASIONAL#################
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/eOtH9bA.png" group-title="KO | NASIONAL™", mytv
-http://103.146.197.96:25461/live/koko/koko/1.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/eOtH9bA.png" group-title="KO | NASIONAL™", mytv2
-http://103.146.197.96:25461/live/koko/koko/2.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/eOtH9bA.png" group-title="KO | NASIONAL™", mytv3
-http://103.146.197.96:25461/live/koko/koko/3.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/TQ5KEkc.png" group-title="KO | NASIONAL™",btv
-http://103.146.197.96:25461/live/koko/koko/4.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/HiXkIWZ.png" group-title="KO | NASIONAL™",dunia anak
-http://103.146.197.96:25461/live/koko/koko/5.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/OKgnYqd.png" group-title="KO | NASIONAL™",rcti
-http://103.146.197.96:25461/live/koko/koko/8.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/edUB5bk.png" group-title="KO | NASIONAL™",mnctv
-http://103.146.197.96:25461/live/koko/koko/9.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/whVNc1c.png" group-title="KO | NASIONAL™",gtv
-http://103.146.197.96:25461/live/koko/koko/11.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/m3OVdJN.png" group-title="KO | NASIONAL™",metro
-http://103.146.197.96:25461/live/koko/koko/12.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/Yj0kbc4.png" group-title="KO | NASIONAL™",trans
-http://103.146.197.96:25461/live/koko/koko/13.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/vI9jaSU.png" group-title="KO | NASIONAL™",indisiar
-http://103.146.197.96:25461/live/koko/koko/14.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/AUIAS9J.png" group-title="KO | NASIONAL™",trans7
-http://103.146.197.96:25461/live/koko/koko/15.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/5jzqV6a.png" group-title="KO | NASIONAL™",sctv
-http://103.146.197.96:25461/live/koko/koko/16.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/rblGXnH.png" group-title="KO | NASIONAL™",antv
-http://103.146.197.96:25461/live/koko/koko/17.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/W6kCSRC.png" group-title="KO | NASIONAL™",net
-http://103.146.197.96:25461/live/koko/koko/18.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/IdIB9BE.png" group-title="KO | NASIONAL™",kompas
-http://103.146.197.96:25461/live/koko/koko/19.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/QNuLvh7.png" group-title="KO | NASIONAL™",rtv
-http://103.146.197.96:25461/live/koko/koko/21.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/nubr45W.png" group-title="KO | NASIONAL™",inews
-http://103.146.197.96:25461/live/koko/koko/22.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/4NAYdON.png" group-title="KO | NASIONAL™",mentar
-http://103.146.197.96:25461/live/koko/koko/23.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/ARuhVHg.png" group-title="KO | NASIONAL™",moji
-http://103.146.197.96:25461/live/koko/koko/24.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/ai6T9zP.png" group-title="KO | NASIONAL™",cnn
-http://103.146.197.96:25461/live/koko/koko/25.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/cnenilD.png" group-title="KO | NASIONAL™",cnbc
-http://103.146.197.96:25461/live/koko/koko/27.m3u8
-#EXTINF:-1 tvg-name="modif" tvg-logo="https://i.imgur.com/TQ5KEkc.png" group-title="KO | NASIONAL™",btv
-http://103.146.197.96:25461/live/koko/koko/28.m3u8
-
 
 ########  VOD ########
 
@@ -910,8 +855,8 @@ https://archive.org/download/roma-irama/roma%20irama%2FAVSEQ13.mp4
 
 
 
-Solik 1 M20:
-################################################
+Ic........h4:
+##############    LK21          ##################################
 
 
 
@@ -1019,6 +964,72 @@ https://cdn7iv.diebutx.com/storage/2022/st3.google.co/2022/02/03/task1/5c5c5c5f9
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/05/07/task1/9e9c7b2fa06358e6861c97d141f9a4a9/720p/index.m3u8
 
 
+
+
+################ LK21 ##############
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HU1a7Gx.png" group-title="lk21",Angel fallend warior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://stream.hownetwork.xyz/xxx/angels-fallen-warriors-of-peace-2024-webdl_X_c5503ec5/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HU1a7Gx.png" group-title="lk21",FURIOSA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://stream.hownetwork.xyz/xxx/furiosa-a-mad-max-saga-2024-bluray_X_0e2043b6/22/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HU1a7Gx.png" group-title="lk21",oranghutan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://stream.hownetwork.xyz/xxx/secret-lives-of-orangutans-2024-webdl_X_60ca66d1/22/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HU1a7Gx.png" group-title="lk21",Anthem
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://stream.hownetwork.xyz/xxx/national-anthem-2024-webdl_X_a54f05c2/22/480.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HU1a7Gx.png" group-title="lk21",Twig light
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://stream.hownetwork.xyz/xxx/twilight-of-the-warriors-walled-in-2024-bluray_X_fbf0c4ba/22/480.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HU1a7Gx.png" group-title="lk21",Down the rabbit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://stream.hownetwork.xyz/xxx/down-the-rabbit-hole-2024-webdl_X_25c9f2c8/22/480.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HU1a7Gx.png" group-title="lk21",Angel off sex
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://stream.hownetwork.xyz/xxx/angels-sex-2012-bluray/2/480.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HU1a7Gx.png" group-title="lk21",bikini
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://stream.hownetwork.xyz/xxx/bikini-spring-break-2012-bluray/9/480.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HU1a7Gx.png" group-title="lk21",king off beast
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://stream.hownetwork.xyz/xxx/king-of-beasts-2018-webrip/4/480.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HU1a7Gx.png" group-title="lk21",Hongkong
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://stream.hownetwork.xyz/xxx/kamui-2009-dvdrip/16/480.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HU1a7Gx.png" group-title="lk21",Riding in car
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://stream.hownetwork.xyz/xxx/riding-cars-boys-2001-dvdrip/9/480.m3u8
 
 ################################
 
