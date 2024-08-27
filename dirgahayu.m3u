@@ -232,31 +232,18 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QqzazmK.jpeg" group-title="LOKAL ID Auto", Jowo Tv
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/212
+
+
 //========================================================================
 
 
 
 
-########  VOD ########
 
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/2kKe7Nh.jpeg" group-title="VOD MOVIES", IP MAN 1 
-https://stream.hownetwork.xyz/xxx/ip-man-2008-bluray/7/480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/GRFFaBf.jpeg" group-title="VOD MOVIES", IP MAN 2 
-https://stream.hownetwork.xyz/xxx/ip-man-2-2010-bluray/7/480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/5FGv8IS.jpeg" group-title="VOD MOVIES", IP MAN 3 
-https://stream.hownetwork.xyz/xxx/ip-man-3-2015-bluray/7/480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/qGi8WQV.jpeg" group-title="VOD MOVIES", IP MAN 4 
-https://stream.hownetwork.xyz/xxx/ip-man-4-the-finale-yip-man-4-2019-bluray/7/480.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/KXQz25D.jpeg" group-title="VOD MOVIES", NARNIA LION WITCH WARDROBE 1
-https://stream.hownetwork.xyz/xxx/chronicles-narnia-lion-witch-wardrobe-2005-bluray/6/480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/GEQX1ca.jpeg" group-title="VOD MOVIES", NARNIA THE CHRONICLES OF NARNIA: PRINCE CASPIAN 2
-https://stream.hownetwork.xyz/xxx/the-chronicles-of-narnia-prince-caspian-2008-bluray/11/480.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/wMyh9mu.jpeg" group-title="VOD MOVIES", CINDERELLA
-https://stream.hownetwork.xyz/xxx/cinderella-2015-bluray/2/480.m3u8
-
- 
 
 ################   SAUR SEPUH  ##################
 
@@ -527,299 +514,134 @@ https://dn720409.ca.archive.org/0/items/film_indo_tahun_1980-1989/DJAKARTA%20196
 
 
 
+##############LAGA JADUL #######
 
-###################FILM JADUL########
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tNhC3a6.png" group-title="FILM JADUL",NAGA BONAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNhC3a6.png" group-title="LAGA JADUL",NAGA BONAR
 https://dn720409.ca.archive.org/0/items/film_indo_tahun_1980-1989/Naga%20Bonar%20%281986%29%20%5BRemastered%5D%20360p%20filmgrewal.blogspot.com.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CZXhZKE.png" group-title="FILM JADUL",ANK2 MALAM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/film_indo_tahun_1980-1989/Anak-Anak%20Malam%20%281986%29%20360p%20filmgrewal.blogspot.com.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VP3o45j.png" group-title="FILM JADUL",DENDAM DUA JAGOAN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://ia903203.us.archive.org/34/items/film_indo_tahun_1980-1989/Dendam%20Dua%20Jagoan%20%281986%29%20WEB-DL%20720p%20filmgrewal.blogspot.com.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DIo2uIt.png" group-title="FILM JADUL",RORO MENDUT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DIo2uIt.png" group-title="LAGA JADUL",RORO MENDUT
 https://ia903203.us.archive.org/34/items/film_indo_tahun_1980-1989/Legenda%20Roro%20Mendut%20%281982%29%20720p%20filmgrewal.blogspot.com.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/osOoeCy.png" group-title="FILM JADUL",BUKIT BERDARAH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/film_indo_tahun_1980-1989/Bukit%20Berdarah%20%281985%29%20WEBDL%20720p%20filmgrewal.blogspot.com.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gqt42sy.png" group-title="FILM JADUL",MALAIKAT BAYANGAN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gqt42sy.png" group-title="LAGA JADUL",MALAIKAT BAYANGAN
 https://ia903203.us.archive.org/34/items/film_indo_tahun_1980-1989/Malaikat%20Bayangan%20%281988%29%20%28360p%29%20filmgrewal.blogspot.com.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9OJodmO.png" group-title="FILM JADUL",PEMBALASAN RAMBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://ia903203.us.archive.org/34/items/film_indo_tahun_1980-1989/Pembalasan%20Rambu%20%281985%29%20360p%20filmgrewal.blogspot.com.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kxrJ4A0.png" group-title="FILM JADUL",SEMBILAN WALI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dn720409.ca.archive.org/0/items/film_indo_tahun_1980-1989/Sembilan%20Wali%20%281985%29%20240p%20filmgrewal.blogspot.com.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1u1c0U1.png" group-title="FILM JADUL",SI BUTA VS JAKA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dn720409.ca.archive.org/0/items/film_indo_tahun_1980-1989/Sibuta%20Lawan%20Jaka%20Sembung%20%281983%29%20480p%20filmgrewal.blogspot.com.ia.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FHyPOIy.png" group-title="FILM JADUL",WIRO SABLENG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dn720409.ca.archive.org/0/items/film_indo_tahun_1980-1989/Wiro%20Sableng%20II%20-%20Orang-Orang%20Sakti%20Dari%20Tangkuban%20Perahu%20%281988%29%20filmgrewal.blogspot.com.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8mWCvHa.png" group-title="FILM JADUL",TONGKAT SAKTI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dn720409.ca.archive.org/0/items/film_indo_tahun_1980-1989/Tongkat%20Sakti%20%281982%29%20%28360p%29.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hhEfTZl.png" group-title="FILM JADUL",HALIMUN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hhEfTZl.png" group-title="LAGA JADUL",HALIMUN
 https://dn720409.ca.archive.org/0/items/film_indo_tahun_1980-1989/Halimun%20%281982%29%20WEB-SD%20720p.MP4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PKHjIDy.png" group-title="FILM JADUL",malamsatu suro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dn720409.ca.archive.org/0/items/film_indo_tahun_1980-1989/Malam%20Satu%20Suro%20%281988%29%20%28720p%29%20filmgrewal.blogspot.com.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4V1cc4l.png" group-title="FILM JADUL",CTTN SI BOY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/film_indo_tahun_1980-1989/Catatan%20Si%20Boy%20%281987%29%20WEB-DL%20%28480p%29%20filmgrewal.blogspot.com.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VPMKfh5.png" group-title="FILM JADUL",CINTAKU DI RMH SUNSUN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dn720409.ca.archive.org/0/items/film_indo_tahun_1980-1989/Cintaku%20di%20Rumah%20Susun%20%281987%29%20%28720p%29%20filmgrewal.blogspot.ia.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",LADY TERMINATOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="LAGA JADUL",LADY TERMINATOR
 https://archive.org/download/lady-terminator-indo-cut-1994/Lady%20Terminator%20Indo%20Cut%201994.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",WARRIOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YM9nCga.jpeg" group-title="LAGA JADUL",WARRIOR
 https://archive.org/download/the-warrior_202211/THE_WARRIOR.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",SI BUTA VS JK SEMBUNG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nkGeTMr.jpeg" group-title="LAGA JADUL",SI BUTA VS JK SEMBUNG
 https://archive.org/download/the-warrior-against-the-blind-swordsman-1983-full-movie-indonesian-martial-arts-insanity-prima/The%20Warrior%20Against%20The%20Blind%20Swordsman%20%281983%29%20Full%20Movie%20-%20Indonesian%20Martial%20Arts%20Insanity%20-%20Prima.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",JK SEMBUNG DWI SAMUDRA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rHw3uv0.jpeg" group-title="LAGA JADUL",JK SEMBUNG DWI SAMUDRA
 https://archive.org/download/jaka-sembung-dan-dewi-samudra/Jaka%20Sembung%20Dan%20Dewi%20Samudra.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",LARA JONGGRANG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xwjLsUf.jpeg" group-title="LAGA JADUL",RORO JONGGRANG
 https://archive.org/download/lara-jonggrang-1983-mig/Lara%20Jonggrang%20%281983%29%20%28MIG%29.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",PENDEKAR MATA 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dQdQqVj.jpeg" group-title="LAGA JADUL",PENDEKAR MATA 1
 https://archive.org/download/pendekar-mata-satu-1989/Pendekar%20Mata%20Satu%20%281989%29.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",neraka lembah tengkorak
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dn720409.ca.archive.org/0/items/film_indo_tahun_1980-1989/Neraka%20Lembah%20Tengkorak%20%281988%29%20%28360p%29%20filmgrewal.blogspot.com.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",PRIMITIF
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f1B8c5Y.jpeg" group-title="LAGA JADUL",PRIMITIF
 https://archive.org/download/y-2-mate.is-primitive-a.-k.-a-savage-terror-1980-indonesian-dub-1-rrx-9aa-3wmo-720p-1637822852457/Y2Mate.is%20-%20Primitive%20A.K.A%20Savage%20Terror%20%281980%29%20Indonesian%20Dub-1Rrx9aa3wmo-720p-1637822852457.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",darah perjaka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dn720409.ca.archive.org/0/items/film_indo_tahun_1980-1989/Darah%20Perjaka%20%281985%29%20SDTV%201080p%20filmgrewal.blogspot.com.ia.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",istana kecantikan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dn720409.ca.archive.org/0/items/film_indo_tahun_1980-1989/Istana%20Kecantikan%20%281988%29%20%28360p%29%20filmgrewal.blogspot.com.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",SELAMAT TINGGAL JANET
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dn720409.ca.archive.org/0/items/film_indo_tahun_1980-1989/Selamat%20Tinggal%20Jeanette%20%281987%29%20%281084p%29%20filmgrewal.blogspot.mp4.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",MERPATI TAK PERNAH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dn720409.ca.archive.org/0/items/film_indo_tahun_1980-1989/Merpati%20Tak%20Pernah%20Ingkar%20Janji%20%281986%29%20720p%20filmgrewal.blogspot.com.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",macan kampus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dn720409.ca.archive.org/0/items/film_indo_tahun_1980-1989/Macan%20Kampus%20%281987%29%20WEB-DL%20240p%20filmgrewal.blogspot.com.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",kung fu 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/kung-fu-fighter/KUNG_FU_FIGHTER.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",BUKIT BERDARAH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/filmindo/Bukit%20Berdarah%20%281985%29%20WEBDL%20720p.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",DARAH PERJAKA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/filmindo/Darah%20Perjaka%20%281985%29%20SDTV.ia.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",DARAH DAN DOA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/filmindo/Darah%20dan%20Doa%20%281950%29.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",EMBUN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/filmindo/Embun%2B%281951%29.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",DOSA TAK BRAMPUH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/filmindo/Dosa%2BTak%2BBerampun%2B%281951%29.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",ENAM JAM DI KOGJA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/filmindo/Enam%20Jam%20Di%20Jogja%20%281951%29.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",HARIMAU JAMPA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/filmindo/Harimau%20Tjampa%20%281953%29.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",HEBOH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/filmindo/Heboh%20%281954%29.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",JIN GALUNGAN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/filmindo/Jin%20Galunggung%20%281982%29%20720p.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",MELODI CINTA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/filmindo/Melodi%20Cinta%20Roma%20Irama.ia.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",TELAGA ANGKER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/filmindo/Telaga%20Angker%20%281984%29.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",KENIKMATAN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/filmindo/Kenikmatan%20%281984%29.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",SNIPER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/ice-sniper-2-2023-480-p/ICE%20SNIPER%202%20%282023%29%20480P.ia.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",PANTHER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RRvAmZD.jpeg" group-title="LAGA JADUL",PANTHER
 https://archive.org/download/mc-panther/%5Bmc%5D%20panther.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",MODEL HOT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/ModelHotIndonesia/Model%20Hot%20Indonesia.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",CUT NYA DIN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/USn2KV4.jpeg" group-title="LAGA JADUL",CUT NYA DIN
 https://archive.org/download/tjoet-nja-dhien-by-eros-djarot/Tjoet%20Nja%27%20Dhien%20by%20Eros%20Djarot.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",TIGA DARA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/tiga.-dara.-1956.-indonesian.-1080p.-webrip.x-264.-aac-yts.-mx/Tiga.Dara.1956.INDONESIAN.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dwNwCpS.jpeg" group-title="LAGA JADUL",SI PITUNG
+https://archive.org/download/ateng-kaya-mendadak-1975-hd/Si%20Pitung%20Banteng%20Betawi%20-%20Si%20Pitung%201.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",AFTER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/after.-the.-curfew.-1954.1080p.-blu-ray.x-264.-aac-yts.-mx/After.The.Curfew.1954.1080p.BluRay.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H1FSZDI.jpeg" group-title="LAGA JADUL",JAKA SEMBUNG II
+https://archive.org/download/ateng-kaya-mendadak-1975-hd/Jaka%20Sembung%20II%20-%20Si%20Buta%20Lawan%20Jaka%20Sembung%20%281983%29.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",SETETES NODA MANIS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/film-jadul-setetes-noda-manis-full-movie-360-p/FILM%20JADUL%20SETETES%20NODA%20MANIS%20full%20movie%28360P%29.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",SATRIA MADANGKARA
+
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/7Tkk1yi.jpeg" group-title="LAGA JADUL", si buta dari goa hantu
+https://s6jpfn34w6vq.hgagecdn.com/hls2/01/00697/nsakv3853jau_,l,n,.urlset/index-f2-v1-a1.m3u8?t=qxTIf5Q0YjPt8rugiA1AA-rAig017vMfSSPAqEk8_rs&s=1724735101&e=129600&f=6873148&srv=rvVmM6POT8As&i=0.4&sp=500&p1=rvVmM6POT8As&p2=rvVmM6POT8As&asn=7713
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/ewmyrPd.jpeg" group-title="LAGA JADUL", bajing ireng dan jaka sembung
+https://jns7boykmf9t.hgagecdn.com/hls2/01/01374/icjpdb7yotvd_l/index-v1-a1.m3u8?t=mb9BcQheoe9CjqeiU8pzJvbLNT7jhZz46OaI4Lsyu0o&s=1724737580&e=129600&f=6874680&srv=olm8KoZDIqSx&i=0.4&sp=500&p1=olm8KoZDIqSx&p2=olm8KoZDIqSx&asn=7713
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/H1FSZDI.jpeg" group-title="LAGA JADUL", jaka sembung
+https://jns7boykmf9t.hgagecdn.com/hls2/01/01374/od3ajks2249y_l/index-v1-a1.m3u8?t=Xlk31asIgp0nwSZyhDFffm4WpFG9QhNoUKEe5-oieVQ&s=1724737670&e=129600&f=6874714&srv=QT4SaFcq2SbCW&i=0.4&sp=500&p1=QT4SaFcq2SbCW&p2=QT4SaFcq2SbCW&asn=7713
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/rHw3uv0.jpeg" group-title="LAGA JADUL", jk sembung dan dewi samudra
+https://xyl1e6aymwoj.hgagecdn.com/hls2/01/01374/k1mtw299tbzn_l/index-v1-a1.m3u8?t=PC7eFAqextg25TvF7aKk6qMwdzvxncjI-1iZFQiI6Sw&s=1724737729&e=129600&f=6874715&srv=W5713KT9lWM7&i=0.4&sp=500&p1=W5713KT9lWM7&p2=W5713KT9lWM7&asn=7713
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/7bwDyP2.jpeg" group-title="LAGA JADUL", kabut asmara
+https://v3omhvlxivdc.hgagecdn.com/hls2/01/01374/d8h4anqnogjp_l/index-v1-a1.m3u8?t=oAAdZyCjcFZ5AB2AGXg9a9QA575YYfPm0Eanpwa1ZwU&s=1724737785&e=129600&f=6874717&srv=HcCYo8yLp9Tg&i=0.4&sp=500&p1=HcCYo8yLp9Tg&p2=HcCYo8yLp9Tg&asn=7713
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/vweJRte.jpeg" group-title="LAGA JADUL", sultan agung
+https://g1fuod3uz7pj.hgagecdn.com/hls2/01/01374/fdhkltpstmab_l/index-v1-a1.m3u8?t=Flvw1tSvNrQEExiDXkT4RzutD5EVSA4LOTybk6vs2O4&s=1724737827&e=129600&f=6874817&srv=ws2H1y9HyRzd&i=0.4&sp=500&p1=ws2H1y9HyRzd&p2=ws2H1y9HyRzd&asn=7713
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/ocIroi6.jpeg" group-title="LAGA JADUL", perempuan bergaun merah
+https://vyrmveb1ylys.hgagecdn.com/hls2/01/01354/qv2o4rk2rrop_l/index-v1-a1.m3u8?t=IRLKmLabbhzvUDEbbjAIOKs9bf4COq5TsWDVHsFonxc&s=1724738520&e=129600&f=6774085&srv=pVpR0xBjFze8&i=0.4&sp=500&p1=pVpR0xBjFze8&p2=pVpR0xBjFze8&asn=7713
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/RigsU95.jpeg" group-title="LAGA JADUL", janur kuning
+https://s6jpfn34w6vq.hgagecdn.com/hls2/01/01373/3t363y7yp57v_l/index-v1-a1.m3u8?t=r_lsFmeNPoPB8ni_ncRm2mA3eo4deXgFIx-kYA73JTA&s=1724737948&e=129600&f=6869784&srv=nIb6EHVEwAgB&i=0.4&sp=500&p1=nIb6EHVEwAgB&p2=nIb6EHVEwAgB&asn=7713
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/guPtOj9.jpeg" group-title="LAGA JADUL", jampang
+https://m8ytsnzumrsd.hgagecdn.com/hls2/01/01373/onds7tptvich_l/index-v1-a1.m3u8?t=Mqvmmy3NkoymIw8Z8_d0psi4c3GchBgRBk1JUbkYeIw&s=1724738006&e=129600&f=6869783&srv=J17aI934LOEW&i=0.4&sp=500&p1=J17aI934LOEW&p2=J17aI934LOEW&asn=7713
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/dU137y8.jpeg" group-title="LAGA JADUL", negeri dongeng
+https://eudakqttmha5.hgagecdn.com/hls2/01/01269/6873dbcm1407_l/index-v1-a1.m3u8?t=BsjkJWz8CPhYMbphomXNMj6pxQ0vYLfYqpfT2bAJd1Q&s=1724741982&e=129600&f=6349858&srv=xcSmCe7bTlvM&i=0.4&sp=500&p1=xcSmCe7bTlvM&p2=xcSmCe7bTlvM&asn=7713
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/RartJEA.jpeg" group-title="LAGA JADUL", akibat pergaulan bebas
+https://l7jxhdn5z4yp.hgagecdn.com/hls2/01/01101/f9le6gotngjg_n/index-v1-a1.m3u8?t=KEt394qub_w8h8PP6HEbVPDzjp8y2j2V557hPqv7qwE&s=1724752183&e=129600&f=5505588&srv=IMBRX07KZJRl&i=0.4&sp=500&p1=IMBRX07KZJRl&p2=IMBRX07KZJRl&asn=7713
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/Vm802HQ.jpeg" group-title="LAGA JADUL", carok
+https://gi7hi5gfmafp.hgagecdn.com/hls2/01/01373/l1akjps4wy4b_l/index-v1-a1.m3u8?t=KTMBR3_PrMEiieiuOqU-FvD135FC6W1RBPv2OjcmoQA&s=1724752445&e=129600&f=6869614&srv=TNbM8j7xvRLy&i=0.4&sp=500&p1=TNbM8j7xvRLy&p2=TNbM8j7xvRLy&asn=7713
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/guPtOj9.jpeg" group-title="LAGA JADUL", jampang
+https://gdjpkwg5strc.hgagecdn.com/hls2/01/01373/hxdhviwoxhta_l/index-v1-a1.m3u8?t=EUur8bZ1pk3vAtGVn4lSDdmfHqt62A3RUMeLY46lRBg&s=1724752550&e=129600&f=6869782&srv=J17aI934LOEW&i=0.4&sp=500&p1=J17aI934LOEW&p2=J17aI934LOEW&asn=7713
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/P0W6uJx.jpeg" group-title="LAGA JADUL", tenggelamnya kapal
+https://kf9jy6xerfsy.hgagecdn.com/hls2/01/01298/246kyue4ptjj_l/index-v1-a1.m3u8?t=3QSsQLzjr2TgEE6JlWyY6h5olTRQebSRUxVLtSVkriQ&s=1724752625&e=129600&f=6491417&srv=nvo5rOGr2Tgj&i=0.4&sp=500&p1=nvo5rOGr2Tgj&p2=nvo5rOGr2Tgj&asn=7713
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/IL1bQ09.jpeg" group-title="LAGA JADUL", kelas bintang
+https://iahhu7cuwkpf.hgagecdn.com/hls2/01/00630/bixzwj3nukat_n/index-v1-a1.m3u8?t=1Q6H5UzDuX6qeXmf7f-eL2pgIVOG_14lrAHupaeuZ-g&s=1724752710&e=129600&f=5992913&srv=laEO0mqjA2lu&i=0.4&sp=500&p1=laEO0mqjA2lu&p2=laEO0mqjA2lu&asn=7713
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/UQqRDVP.jpeg" group-title="LAGA JADUL",wirosableng
+https://gy3yju69k6w5.hgagecdn.com/hls2/01/01105/tvth8ch7mw0s_n/index-v1-a1.m3u8?t=BB_7rSZgShG4nHc1QftpWr0lMhr0h8wsP4-bbLGLZi8&s=1724758899&e=129600&f=5528546&srv=HHDdez0jie3n&i=0.4&sp=500&p1=HHDdez0jie3n&p2=HHDdez0jie3n&asn=7713
+
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/FezQrWl.jpeg" group-title="LAGA JADUL",13 bom jakarta
+https://tzoynoerzj90.hgagecdn.com/hls2/01/01593/fc7nm85gi32w_n/index-v1-a1.m3u8?t=XfLJ3Z98PzeJrr5pF-kqy4ihy-SJM3UZB9IjFK_p4bw&s=1724758985&e=129600&f=7973141&srv=kUOgLfKgd5Es&i=0.4&sp=500&p1=kUOgLfKgd5Es&p2=kUOgLfKgd5Es&asn=7713
+
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/NEVC06j.jpeg" group-title="LAGA JADUL",7 manusia harimau
+https://xyl1e6aymwoj.hgagecdn.com/hls2/01/01374/nd9c1sy6i3nm_l/index-v1-a1.m3u8?t=rVK_q0UtSi5-MlFHA0GaaJcytfZ_0xo5nW8qh-NY2oM&s=1724759071&e=129600&f=6873168&srv=bqycOuNuR1y4&i=0.4&sp=500&p1=bqycOuNuR1y4&p2=bqycOuNuR1y4&asn=7713
+
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/7E46TET.jpeg" group-title="LAGA JADUL",ranjang pemikat
+https://dsltl0tjyahh.hgagecdn.com/hls2/01/01374/dfbf8exr1fxc_l/index-v1-a1.m3u8?t=XC8cp-LUBlAm8xDlwdD_39q9fV7ZXhO-IxaJ4bQ3AL0&s=1724759151&e=129600&f=6873136&srv=HHDdez0jie3n&i=0.4&sp=500&p1=HHDdez0jie3n&p2=HHDdez0jie3n&asn=7713
+
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/nkGeTMr.jpeg" group-title="LAGA JADUL",sibuta lwn jk sembung
+https://keylhhnggye5.hgagecdn.com/hls2/01/01374/ogkzcasd3znw_l/index-v1-a1.m3u8?t=hsCxjN1D2AqM_ZfWKA151cnsrSVlfc45nd4A5mldVfU&s=1724759221&e=129600&f=6874811&srv=l8nwfOUccNHF&i=0.4&sp=500&p1=l8nwfOUccNHF&p2=l8nwfOUccNHF&asn=7713
+
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/nSILJ1m.jpeg" group-title="LAGA JADUL",jendral sudirman
+https://ggpjq6gmqddb.hgagecdn.com/hls2/01/01374/g8alfv79558z_l/index-v1-a1.m3u8?t=UPbnM97rz5qezNJ86UQgPECLh4er5fLNakEA9MFAxbs&s=1724759322&e=129600&f=6874716&srv=HHDdez0jie3n&i=0.4&sp=500&p1=HHDdez0jie3n&p2=HHDdez0jie3n&asn=7713
+
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/G4FZUwn.jpeg" group-title="LAGA JADUL",perempuan2 liar
+https://cy1pr8bvqdte.hgagecdn.com/hls2/01/00669/870al3vgabjb_,l,n,.urlset/index-f2-v1-a1.m3u8?t=XUPIEQH4kJFi3IKZMvLF6f7L5qHeXQVS8Fiwkl3HTRs&s=1724759394&e=129600&f=6874805&srv=R7E4BBU6QXpa&i=0.4&sp=500&p1=R7E4BBU6QXpa&p2=R7E4BBU6QXpa&asn=7713
+
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/ESOl4yT.jpeg" group-title="LAGA JADUL",pendekar tongkat emas
+https://v3omhvlxivdc.hgagecdn.com/hls2/01/01377/cr04n78lsl7h_,l,n,.urlset/index-f2-v1-a1.m3u8?t=yLSQ_QY0cAryep0xQQHI-ytKsFpZLfuReuGk9mKgD7U&s=1724759461&e=129600&f=6913859&srv=ElARtUlhF47E&i=0.4&sp=500&p1=ElARtUlhF47E&p2=ElARtUlhF47E&asn=7713
+
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/NojyaiB.jpeg" group-title="LAGA JADUL",serbuan maut
+https://f8wxkuznayxr.hgagecdn.com/hls2/01/01411/v534g0z4jivx_l/index-v1-a1.m3u8?t=YuYpWheRTdwP59wHt5zLoQyaovMzBGN0p5aQ6ezdWzw&s=1724759602&e=129600&f=7055065&srv=OU9fmfrRAeUr&i=0.4&sp=500&p1=OU9fmfrRAeUr&p2=OU9fmfrRAeUr&asn=7713
+
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/kLoO9o3.jpeg" group-title="LAGA JADUL",butas
+https://ffod3wobdqnr.hgagecdn.com/hls2/01/02202/8pxkh0r1ekbb_l/index-v1-a1.m3u8?t=nd1lcaWkKpQ_AUmN0uCRJIGEXAHL4RyuPeVcPZ5fnuY&s=1724762800&e=129600&f=11012085&srv=pmjx9cjae94d&i=0.4&sp=500&p1=pmjx9cjae94d&p2=pmjx9cjae94d&asn=7713
+
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/2yUwM7a.jpeg" group-title="LAGA JADUL",lady terminator
+https://zoql7caonkc3.hgagecdn.com/hls2/01/02213/no8wkw0so61o_n/index-v1-a1.m3u8?t=E_LvRCkwDgRpy3VJrgq2lKo3zntdfpOvP8PZ0i4y9Ds&s=1724762940&e=129600&f=11067909&srv=6mtVVpuBrHPt&i=0.4&sp=500&p1=6mtVVpuBrHPt&p2=6mtVVpuBrHPt&asn=7713
+
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/csDIYQ1.jpeg" group-title="LAGA JADUL",kang mak
+https://xyl1e6aymwoj.hgagecdn.com/hls2/01/02201/hz9jib0unrtv_l/index-v1-a1.m3u8?t=4TcY_CdkT5DNW9Xk1S7bfVokju2DwvDdQHAhiD_Vu8E&s=1724763014&e=129600&f=11007203&srv=pgnp5flcy8ev&i=0.4&sp=500&p1=pgnp5flcy8ev&p2=pgnp5flcy8ev&asn=7713
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/277llLq.jpeg" group-title="LAGA JADUL",SATRIA MADANGKARA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://archive.org/download/ateng-kaya-mendadak-1975-hd/Satria%20Madangkara%20%281988%29.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",SI PITUNG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/ateng-kaya-mendadak-1975-hd/Si%20Pitung%20Banteng%20Betawi%20-%20Si%20Pitung%201.ia.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",WARUNG POJOK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/ateng-kaya-mendadak-1975-hd/WARUNG%20POJOK.%20FILM%20JADUL%201977.ia.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",KETEMU JODOH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/ateng-kaya-mendadak-1975-hd/film%20indonesia%20jadul%20-%20ketemu%20jodoh%20%281973%29.ia.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",KAKA SEMBUNG II
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/ateng-kaya-mendadak-1975-hd/Jaka%20Sembung%20II%20-%20Si%20Buta%20Lawan%20Jaka%20Sembung%20%281983%29.ia.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",korea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/barufilmkorearomantisbikinbaperbahasaindonesia/BARU%21%20Film%20korea%20romantis%20bikin%20baper%20bahasa%20indonesia.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="FILM JADUL",bada pasti berlalu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/badai-pasti-berlalu-1977/Badai%20Pasti%20Berlalu%20%281977%29.mp4
 
 
-
-
-
-################    DANGDUUUT     ###############
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="DANGDUUUT",DANDUT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/dangdutsaweranbebasparah/Dangdut%20Saweran%20Bebas%20Parah.mp4
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="DANGDUUUT",DANDUT1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/dangdutsaweranparahdiobok/Dangdut%20Saweran%20Parah%20Diobok.mp4
-
-
-
-############## KAGU RHOMA #############################
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PKHjIDy.png" group-title="LAGU RHOMA",DAWAI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/roma-irama/roma%20irama%2FAVSEQ01.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PKHjIDy.png" group-title="LAGU RHOMA",PERTEMUAN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/roma-irama/roma%20irama%2FAVSEQ02.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PKHjIDy.png" group-title="LAGU RHOMA",CINCIN KAWIN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/roma-irama/roma%20irama%2FAVSEQ03.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PKHjIDy.png" group-title="LAGU RHOMA",ADUHAI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/roma-irama/roma%20irama%2FAVSEQ04.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PKHjIDy.png" group-title="LAGU RHOMA",TERKESIMA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/roma-irama/roma%20irama%2FAVSEQ05.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PKHjIDy.png" group-title="LAGU RHOMA",PIANO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/roma-irama/roma%20irama%2FAVSEQ06.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PKHjIDy.png" group-title="LAGU RHOMA",MENUNGGU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/roma-irama/roma%20irama%2FAVSEQ07.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PKHjIDy.png" group-title="LAGU RHOMA",KEMONAS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/roma-irama/roma%20irama%2FAVSEQ08.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PKHjIDy.png" group-title="LAGU RHOMA",MALAM TERKHIR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/roma-irama/roma%20irama%2FAVSEQ09.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PKHjIDy.png" group-title="LAGU RHOMA",PANTUN CINTA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/roma-irama/roma%20irama%2FAVSEQ10.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PKHjIDy.png" group-title="LAGU RHOMA",RUJUK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/roma-irama/roma%20irama%2FAVSEQ11.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PKHjIDy.png" group-title="LAGU RHOMA",BAAHTERA CINTA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/roma-irama/roma%20irama%2FAVSEQ12.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PKHjIDy.png" group-title="LAGU RHOMA",DO MI SOL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://archive.org/download/roma-irama/roma%20irama%2FAVSEQ13.mp4
 
 
 
@@ -1062,6 +884,14 @@ Shol m20:
 ################ LK21 ##############
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oqDvvds.jpeg" group-title="lk21",Ms.vampire
+https://eudakqttmha5.hgagecdn.com/hls2/01/02066/58nxu39aopz0_n/index-v1-a1.m3u8?t=7jh8RJxTsTM3-NC6OW4FLwyedFUVBH4ft8ntEV58Vtc&s=1724777752&e=129600&f=10332580&srv=N9AMlcuPtQ8N&i=0.4&sp=500&p1=N9AMlcuPtQ8N&p2=N9AMlcuPtQ8N&asn=7713
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l1QzmdT.jpeg" group-title="lk21",Mr. vampire saga4
+https://eudakqttmha5.hgagecdn.com/hls2/01/02066/w7wicezym45a_n/index-v1-a1.m3u8?t=SqWHmnH9gTFUDNqJcw0dJqLiwybYbmqkp6L8T4rvgBM&s=1724777900&e=129600&f=10332676&srv=N9AMlcuPtQ8N&i=0.4&sp=500&p1=N9AMlcuPtQ8N&p2=N9AMlcuPtQ8N&asn=7713
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mnl5Wfk.jpeg" group-title="lk21",brucle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://stream.hownetwork.xyz/xxx/the-way-of-the-dragon-1972-bluray/3/480.m3u8
@@ -1225,12 +1055,37 @@ https://stream.hownetwork.xyz/xxx/torque-2004-bluray/4/480.m3u8
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="lk21" tvg-logo="https://i.imgur.com/2kKe7Nh.jpeg" group-title="lk21", IP MAN 1 
+https://stream.hownetwork.xyz/xxx/ip-man-2008-bluray/7/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="lk21" tvg-logo="https://i.imgur.com/GRFFaBf.jpeg" group-title="lk21", IP MAN 2 
+https://stream.hownetwork.xyz/xxx/ip-man-2-2010-bluray/7/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/5FGv8IS.jpeg" group-title="lk21", IP MAN 3 
+https://stream.hownetwork.xyz/xxx/ip-man-3-2015-bluray/7/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/qGi8WQV.jpeg" group-title="lk21", IP MAN 4 
+https://stream.hownetwork.xyz/xxx/ip-man-4-the-finale-yip-man-4-2019-bluray/7/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/KXQz25D.jpeg" group-title="lk21", NARNIA LION WITCH WARDROBE 1
+https://stream.hownetwork.xyz/xxx/chronicles-narnia-lion-witch-wardrobe-2005-bluray/6/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/GEQX1ca.jpeg" group-title="lk21", NARNIA THE CHRONICLES OF NARNIA: PRINCE CASPIAN 2
+https://stream.hownetwork.xyz/xxx/the-chronicles-of-narnia-prince-caspian-2008-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/wMyh9mu.jpeg" group-title="lk21", CINDERELLA
+https://stream.hownetwork.xyz/xxx/cinderella-2015-bluray/2/480.m3u8
+
+ 
+
+
+
+
+
+
 #######HBO GROUP######
 
 HBO GRUB
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | HBO GROUP", HBO 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="HBO Group", HBO 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1239,7 +1094,7 @@ HBO GRUB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | HBO GROUP", HBO Hits 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="HBO Group", HBO Hits 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1248,7 +1103,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | HBO GROUP", HBO Family 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="HBO Group", HBO Family 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1257,7 +1112,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | HBO GROUP", HBO Signature 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="HBO Group", HBO Signature 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1266,7 +1121,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | HBO GROUP", Cinemax 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="HBO Group", Cinemax 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3126,77 +2981,6 @@ https://stream.hownetwork.xyz/xxx/aladdin-2019-bluray/10/480.m3u8
 
 ################################################################
 
-
-
-##############$#############
-
-#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-https://asdfasfd.onlinehdhls.ru/hzt/premium714/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
-
-#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_1/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
-#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_2/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
-#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_3/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
-#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_4/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
-#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_5/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
-#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_6/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
-#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_7/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
-#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_8/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
-
-#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_9/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
-
-#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_10/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
-
-#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_11/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
-
-#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_12/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
-
-#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_13/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
-
-#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_14/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
 
 
 
